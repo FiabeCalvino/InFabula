@@ -17,6 +17,33 @@
 	padding-bottom: 5rem;
 }
 
+.row>* {
+	flex-shrink:2;
+}
+
+
+a.btn {
+  box-sizing: border-box;
+  height: 45px;
+  width: 151px;
+  border: 2px solid #333333;
+  border-radius: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------------------
+# MIO
+--------------------------------------------------------------*/
+
 .myborder {
 			border: solid rgb(220,220,220) 1px;
 			padding: 10px;
