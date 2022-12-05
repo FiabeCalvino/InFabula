@@ -266,7 +266,7 @@
 
 function showCheckboxes() {
   var checkboxes = document.getElementById("checkboxes");
-  if (expanded) {
+  if(this.attr('aria-expanded') === "true") {
     checkboxes.style.display = "block";
     expanded = true;
   } else {
@@ -284,4 +284,12 @@ function showCheckboxes2() {
     checkboxes2.style.display = "none";
     expanded = false;
   }
+}
+
+
+
+		function showFables(id) {
+    var elem = document.getElementById(id);
+    $(".region").css("display", "none");
+    elem.style.display = "inline-block";
 }
