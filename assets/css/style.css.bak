@@ -66,55 +66,11 @@
 			min-height: 150px;
 		}
 		
-		.character:before {
-			content: " – ";
-			background-color: #ffffff !important;
-		}
-		.character:after {
-			content: " – ";
-			background-color: #ffffff !important;
-		}
+		
 
-		.protagonist :before {
-			content: "“";
-			background-color: #ffffff !important;
-		}
-		.protagonist :after {
-			content: "”";
-			background-color: #ffffff !important;
-		}
-		.dispatcher:before {
-			content: "«";
-			background-color: #ffffff !important;
-		}
-		.dispatcher:after {
-			content: "»";
-			background-color: #ffffff !important;
-		}
-		.villain:before {
-			content: "«";
-			background-color: #ffffff !important;
-		}
-		.villain:after {
-			content: "»";
-			background-color: #ffffff !important;
-		}
-		.helper:before {
-			content: "«";
-			background-color: #ffffff !important;
-		}
-		.helper:after {
-			content: "»";
-			background-color: #ffffff !important;
-		}
-		.prize:before {
-			content: "«";
-			background-color: #ffffff !important;
-		}
-		.prize:after {
-			content: "»";
-			background-color: #ffffff !important;
-		}
+
+       
+	
 		
 		
 		
@@ -137,6 +93,46 @@
 		.text-prize {
 			background-color: #ffffdd;
 		}
+		
+		
+		
+		
+		.text-hero {
+			background-color: #ffffdd;
+		}
+         .text-hero {
+			background-color: #ffffdd;
+		}
+		.text-caregiver {
+			background-color: #ffffdd;
+		}
+		.text-sovereign {
+			background-color: #ffffdd;
+		}
+		.text-creator {
+			background-color: #ffffdd;
+		}
+		.text-innocent {
+			background-color: #ffffdd;
+		}
+		.text-sage {
+			background-color: #ffffdd;
+		}
+		.text-rebel {
+			background-color: #ffffdd;
+		}
+		.text-jester {
+			background-color: #ffffdd;
+		}
+		.text-lover {
+			background-color: #ffffdd;
+		}
+		.text-magician {
+			background-color: #ffffdd;
+		}
+
+
+
 
 
 
@@ -154,11 +150,13 @@
   }
   
   
-.multiselect {
+.multiselect, .multiselect2  {
   width: 200px;
+  background-color: red;
+  margin-bottom: 20px;
 }
 
-.selectBox {
+.selectBox, .selectBox2 {
   position: relative;
 }
 
@@ -167,7 +165,12 @@
   font-weight: bold;
 }
 
-.overSelect {
+.selectBox2 select {
+  width: 100%;
+  font-weight: bold;
+}
+
+.overSelect, .overSelect {
   position: absolute;
   left: 0;
   right: 0;
@@ -175,12 +178,16 @@
   bottom: 0;
 }
 
-#checkboxes {
+#checkboxes, #checkboxes2 {
   display: none;
   border: 1px #dadada solid;
 }
 
 #checkboxes label {
+  display: block;
+}
+
+#checkboxes2 label {
   display: block;
 }
 
@@ -197,84 +204,9 @@ li{
 }
 
 
-
-
-/*
-
-.multiselect {
-  width: 200px;
+.container {
+	margin-left: 20px;
 }
-
-.selectBox {
-  position: relative;
-}
-
-.selectBox select {
-  width: 100%;
-  font-weight: bold;
-}
-
-.overSelect {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-}
-
-#checkboxes {
-  display: none;
-  border: 1px #dadada solid;
-}
-
-#checkboxes label {
-  display: block;
-}
-
-#checkboxes label:hover {
-  background-color: #1e90ff;
-}
-
-
-.multiselect2 {
-  width: 200px;
-}
-
-.selectBox2 {
-  position: relative;
-}
-
-.selectBox2 select {
-  width: 100%;
-  font-weight: bold;
-}
-
-.overSelect2 {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-}
-
-#checkboxes2 {
-  display: none;
-  border: 1px #dadada solid;
-}
-
-#checkboxes2 label {
-  display: block;
-}
-
-#checkboxes2 label:hover {
-  background-color: #1e90ff;
-}
-
-
-
-
-
-*/
 
 
 
@@ -346,7 +278,7 @@ h6 {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 200px;
   transition: all ease-in-out 0.5s;
   z-index: 9997;
   transition: all 0.5s;
@@ -400,12 +332,12 @@ h6 {
 }
 
 #main {
-  margin-left: 300px;
+  margin-left: 200px;
 }
 
 @media (max-width: 1199px) {
   #header {
-    left: -300px;
+    left: -200px;
   }
 
   #main {
@@ -1352,7 +1284,7 @@ section {
   position: fixed;
   left: 0;
   bottom: 0;
-  width: 300px;
+  width: 200px;
   z-index: 9999;
   background: #040b14;
 }

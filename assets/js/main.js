@@ -266,7 +266,7 @@
 
 function showCheckboxes() {
   var checkboxes = document.getElementById("checkboxes");
-  if(this.attr('aria-expanded') === "true") {
+  if (expanded) {
     checkboxes.style.display = "block";
     expanded = true;
   } else {
