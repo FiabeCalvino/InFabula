@@ -357,6 +357,7 @@ h6 {
 
 #main {
   margin-left: 200px;
+  background-image: url('../assets/img/paper.jpg');;
 }
 
 @media (max-width: 1199px) {

@@ -1,0 +1,2801 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <graph edgedefault="undirected">
+        <node id="protagonist, trickster">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-105.3208</data>
+            <data key="y">-509.6632</data>
+        </node>
+        <node id="villain, caregiver">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-761.2027</data>
+            <data key="y">312.83078</data>
+        </node>
+        <node id="helper, innocent">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-502.7098</data>
+            <data key="y">690.60474</data>
+        </node>
+        <node id="prize, sage">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-634.3338</data>
+            <data key="y">612.1826</data>
+        </node>
+        <node id="dispatcher, caregiver">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-299.48453</data>
+            <data key="y">-623.57166</data>
+        </node>
+        <node id="protagonist, explorer">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">487.5567</data>
+            <data key="y">445.26642</data>
+        </node>
+        <node id="protagonist, lover">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">444.01266</data>
+            <data key="y">-181.38852</data>
+        </node>
+        <node id="villain, trickster">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-649.93616</data>
+            <data key="y">562.40283</data>
+        </node>
+        <node id="prize, lover">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">607.284</data>
+            <data key="y">30.420965</data>
+        </node>
+        <node id="villain, explorer">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-139.20787</data>
+            <data key="y">-406.74127</data>
+        </node>
+        <node id="dispatcher, lover">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">277.69415</data>
+            <data key="y">107.82916</data>
+        </node>
+        <node id="helper, trickster">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">218.22725</data>
+            <data key="y">13.716667</data>
+        </node>
+        <node id="helper, sage">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">195.5377</data>
+            <data key="y">-383.9681</data>
+        </node>
+        <node id="helper, animal">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-51.140812</data>
+            <data key="y">-252.02296</data>
+        </node>
+        <node id="helper, citizen">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-147.03645</data>
+            <data key="y">22.149769</data>
+        </node>
+        <node id="villain, magician">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">923.70294</data>
+            <data key="y">-281.97696</data>
+        </node>
+        <node id="helper, lover">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-708.5326</data>
+            <data key="y">238.62598</data>
+        </node>
+        <node id="villain, rebel">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-698.7232</data>
+            <data key="y">-499.6848</data>
+        </node>
+        <node id="protagonist, caregiver">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-75.394905</data>
+            <data key="y">195.08904</data>
+        </node>
+        <node id="villain, innocent">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-385.4159</data>
+            <data key="y">-29.415953</data>
+        </node>
+        <node id="protagonist, rebel">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">563.74994</data>
+            <data key="y">-427.7201</data>
+        </node>
+        <node id="helper, monster">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">135.83014</data>
+            <data key="y">-130.71349</data>
+        </node>
+        <node id="villain, monster">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">445.0635</data>
+            <data key="y">691.1518</data>
+        </node>
+        <node id="villain, lover">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-679.2528</data>
+            <data key="y">443.37802</data>
+        </node>
+        <node id="villain, sovereign">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">324.7863</data>
+            <data key="y">309.57135</data>
+        </node>
+        <node id="dispatcher, sovereign">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">689.55396</data>
+            <data key="y">-20.431583</data>
+        </node>
+        <node id="helper, rebel">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">338.9796</data>
+            <data key="y">199.18277</data>
+        </node>
+        <node id="helper, magician">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">537.197</data>
+            <data key="y">-332.9412</data>
+        </node>
+        <node id="helper, caregiver">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-727.56213</data>
+            <data key="y">-551.0371</data>
+        </node>
+        <node id="protagonist, innocent">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-109.63899</data>
+            <data key="y">-79.71136</data>
+        </node>
+        <node id="villain, citizen">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">564.6138</data>
+            <data key="y">-231.61368</data>
+        </node>
+        <node id="protagonist, sovereign">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">234.4647</data>
+            <data key="y">-591.1469</data>
+        </node>
+        <node id="helper, sovereign">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-375.77023</data>
+            <data key="y">511.8345</data>
+        </node>
+        <node id="prize, innocent">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-271.71967</data>
+            <data key="y">81.96681</data>
+        </node>
+        <node id="protagonist, object">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">419.8482</data>
+            <data key="y">-71.367065</data>
+        </node>
+        <node id="helper, object">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">155.53082</data>
+            <data key="y">742.3387</data>
+        </node>
+        <node id="prize, citizen">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">65.926025</data>
+            <data key="y">-675.7165</data>
+        </node>
+        <node id="protagonist, citizen">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-239.69728</data>
+            <data key="y">-323.65198</data>
+        </node>
+        <node id="helper, explorer">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-308.91913</data>
+            <data key="y">460.73575</data>
+        </node>
+        <node id="protagonist, jester">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">38.496906</data>
+            <data key="y">376.30737</data>
+        </node>
+        <node id="villain, object">
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">190.59438</data>
+            <data key="y">-458.7737</data>
+        </node>
+        <edge id="2721050" source="protagonist, trickster" target="villain, trickster">
+            <data key="weight">414.0</data>
+        </edge>
+        <edge id="2721053" source="protagonist, trickster" target="dispatcher, caregiver">
+            <data key="weight">598.0</data>
+        </edge>
+        <edge id="2721056" source="protagonist, trickster" target="villain, explorer">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2721061" source="protagonist, trickster" target="protagonist, explorer">
+            <data key="weight">1058.0</data>
+        </edge>
+        <edge id="2721063" source="protagonist, trickster" target="helper, trickster">
+            <data key="weight">368.0</data>
+        </edge>
+        <edge id="2721078" source="protagonist, trickster" target="helper, animal">
+            <data key="weight">598.0</data>
+        </edge>
+        <edge id="2721083" source="protagonist, trickster" target="protagonist, caregiver">
+            <data key="weight">138.0</data>
+        </edge>
+        <edge id="2721085" source="protagonist, trickster" target="helper, lover">
+            <data key="weight">644.0</data>
+        </edge>
+        <edge id="2721086" source="protagonist, trickster" target="villain, rebel">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2721087" source="protagonist, trickster" target="protagonist, lover">
+            <data key="weight">506.0</data>
+        </edge>
+        <edge id="2721090" source="protagonist, trickster" target="helper, monster">
+            <data key="weight">276.0</data>
+        </edge>
+        <edge id="2721091" source="protagonist, trickster" target="helper, sage">
+            <data key="weight">368.0</data>
+        </edge>
+        <edge id="2721094" source="protagonist, trickster" target="helper, innocent">
+            <data key="weight">460.0</data>
+        </edge>
+        <edge id="2721095" source="protagonist, trickster" target="prize, lover">
+            <data key="weight">690.0</data>
+        </edge>
+        <edge id="2721096" source="protagonist, trickster" target="villain, sovereign">
+            <data key="weight">460.0</data>
+        </edge>
+        <edge id="2721097" source="protagonist, trickster" target="dispatcher, sovereign">
+            <data key="weight">552.0</data>
+        </edge>
+        <edge id="2721103" source="protagonist, trickster" target="villain, monster">
+            <data key="weight">414.0</data>
+        </edge>
+        <edge id="2721108" source="protagonist, trickster" target="helper, magician">
+            <data key="weight">598.0</data>
+        </edge>
+        <edge id="2721120" source="protagonist, trickster" target="villain, magician">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2721123" source="protagonist, trickster" target="villain, caregiver">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2721129" source="protagonist, trickster" target="helper, rebel">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2721131" source="protagonist, trickster" target="protagonist, innocent">
+            <data key="weight">644.0</data>
+        </edge>
+        <edge id="2721133" source="protagonist, trickster" target="helper, citizen">
+            <data key="weight">1932.0</data>
+        </edge>
+        <edge id="2721134" source="protagonist, trickster" target="villain, lover">
+            <data key="weight">138.0</data>
+        </edge>
+        <edge id="2721135" source="protagonist, trickster" target="villain, citizen">
+            <data key="weight">782.0</data>
+        </edge>
+        <edge id="2721143" source="protagonist, trickster" target="protagonist, rebel">
+            <data key="weight">138.0</data>
+        </edge>
+        <edge id="2721147" source="protagonist, trickster" target="helper, caregiver">
+            <data key="weight">874.0</data>
+        </edge>
+        <edge id="2721163" source="protagonist, trickster" target="dispatcher, lover">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2721221" source="protagonist, trickster" target="helper, sovereign">
+            <data key="weight">460.0</data>
+        </edge>
+        <edge id="2721337" source="protagonist, trickster" target="protagonist, citizen">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2721339" source="protagonist, trickster" target="protagonist, sovereign">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2721371" source="protagonist, trickster" target="helper, object">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2721391" source="villain, caregiver" target="villain, trickster">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2721394" source="villain, caregiver" target="prize, lover">
+            <data key="weight">120.0</data>
+        </edge>
+        <edge id="2721395" source="villain, caregiver" target="dispatcher, caregiver">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2721398" source="villain, caregiver" target="villain, explorer">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2721403" source="villain, caregiver" target="protagonist, explorer">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2721405" source="villain, caregiver" target="helper, trickster">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2721414" source="villain, caregiver" target="helper, citizen">
+            <data key="weight">336.0</data>
+        </edge>
+        <edge id="2721420" source="villain, caregiver" target="helper, animal">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2721425" source="villain, caregiver" target="protagonist, caregiver">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2721427" source="villain, caregiver" target="helper, lover">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2721428" source="villain, caregiver" target="villain, rebel">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2721429" source="villain, caregiver" target="protagonist, lover">
+            <data key="weight">88.0</data>
+        </edge>
+        <edge id="2721432" source="villain, caregiver" target="helper, monster">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2721433" source="villain, caregiver" target="helper, sage">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2721434" source="villain, caregiver" target="dispatcher, sovereign">
+            <data key="weight">96.0</data>
+        </edge>
+        <edge id="2721436" source="villain, caregiver" target="helper, innocent">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2721438" source="villain, caregiver" target="villain, sovereign">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2721442" source="villain, caregiver" target="helper, rebel">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2721444" source="villain, caregiver" target="helper, magician">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2721445" source="villain, caregiver" target="villain, monster">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2721448" source="villain, caregiver" target="helper, caregiver">
+            <data key="weight">152.0</data>
+        </edge>
+        <edge id="2721461" source="villain, caregiver" target="protagonist, innocent">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2721462" source="villain, caregiver" target="villain, magician">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2721469" source="villain, caregiver" target="villain, citizen">
+            <data key="weight">136.0</data>
+        </edge>
+        <edge id="2721472" source="villain, caregiver" target="protagonist, sovereign">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2721476" source="villain, caregiver" target="villain, lover">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2721485" source="villain, caregiver" target="protagonist, rebel">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2721505" source="villain, caregiver" target="dispatcher, lover">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2721545" source="villain, caregiver" target="helper, sovereign">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2721643" source="villain, caregiver" target="helper, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2721662" source="villain, caregiver" target="prize, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2721670" source="villain, caregiver" target="protagonist, citizen">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2721689" source="villain, caregiver" target="helper, explorer">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2721690" source="villain, caregiver" target="protagonist, jester">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2721714" source="villain, caregiver" target="villain, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2721734" source="helper, innocent" target="villain, trickster">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="2721737" source="helper, innocent" target="dispatcher, caregiver">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2721740" source="helper, innocent" target="villain, explorer">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2721745" source="helper, innocent" target="protagonist, explorer">
+            <data key="weight">460.0</data>
+        </edge>
+        <edge id="2721747" source="helper, innocent" target="helper, trickster">
+            <data key="weight">160.0</data>
+        </edge>
+        <edge id="2721762" source="helper, innocent" target="helper, animal">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2721767" source="helper, innocent" target="protagonist, caregiver">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2721769" source="helper, innocent" target="helper, lover">
+            <data key="weight">280.0</data>
+        </edge>
+        <edge id="2721770" source="helper, innocent" target="villain, rebel">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2721771" source="helper, innocent" target="protagonist, lover">
+            <data key="weight">220.0</data>
+        </edge>
+        <edge id="2721774" source="helper, innocent" target="helper, monster">
+            <data key="weight">120.0</data>
+        </edge>
+        <edge id="2721775" source="helper, innocent" target="helper, sage">
+            <data key="weight">160.0</data>
+        </edge>
+        <edge id="2721779" source="helper, innocent" target="prize, lover">
+            <data key="weight">300.0</data>
+        </edge>
+        <edge id="2721780" source="helper, innocent" target="villain, sovereign">
+            <data key="weight">200.0</data>
+        </edge>
+        <edge id="2721781" source="helper, innocent" target="dispatcher, sovereign">
+            <data key="weight">240.0</data>
+        </edge>
+        <edge id="2721787" source="helper, innocent" target="villain, monster">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="2721792" source="helper, innocent" target="helper, magician">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2721804" source="helper, innocent" target="villain, magician">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2721813" source="helper, innocent" target="helper, rebel">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2721815" source="helper, innocent" target="protagonist, innocent">
+            <data key="weight">280.0</data>
+        </edge>
+        <edge id="2721817" source="helper, innocent" target="helper, citizen">
+            <data key="weight">840.0</data>
+        </edge>
+        <edge id="2721818" source="helper, innocent" target="villain, lover">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2721819" source="helper, innocent" target="villain, citizen">
+            <data key="weight">340.0</data>
+        </edge>
+        <edge id="2721827" source="helper, innocent" target="protagonist, rebel">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2721831" source="helper, innocent" target="helper, caregiver">
+            <data key="weight">380.0</data>
+        </edge>
+        <edge id="2721847" source="helper, innocent" target="dispatcher, lover">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2721905" source="helper, innocent" target="helper, sovereign">
+            <data key="weight">200.0</data>
+        </edge>
+        <edge id="2721985" source="helper, innocent" target="helper, object">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2722021" source="helper, innocent" target="protagonist, citizen">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2722023" source="helper, innocent" target="protagonist, sovereign">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2722031" source="helper, innocent" target="helper, explorer">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2722032" source="helper, innocent" target="protagonist, jester">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2722056" source="helper, innocent" target="villain, object">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2722072" source="prize, sage" target="dispatcher, caregiver">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2722073" source="prize, sage" target="protagonist, explorer">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2722074" source="prize, sage" target="protagonist, lover">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2722075" source="prize, sage" target="villain, trickster">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2722077" source="prize, sage" target="protagonist, trickster">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2722078" source="prize, sage" target="prize, lover">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2722081" source="prize, sage" target="villain, explorer">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2722083" source="prize, sage" target="dispatcher, lover">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2722088" source="prize, sage" target="helper, trickster">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2722094" source="prize, sage" target="helper, sage">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2722095" source="prize, sage" target="helper, animal">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2722098" source="prize, sage" target="helper, citizen">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2722099" source="prize, sage" target="villain, magician">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2722100" source="prize, sage" target="helper, lover">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2722102" source="prize, sage" target="villain, rebel">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2722103" source="prize, sage" target="protagonist, caregiver">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2722105" source="prize, sage" target="villain, innocent">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2722106" source="prize, sage" target="protagonist, rebel">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2722107" source="prize, sage" target="helper, monster">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2722108" source="prize, sage" target="villain, monster">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2722114" source="prize, sage" target="villain, lover">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2722115" source="prize, sage" target="villain, sovereign">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2722118" source="prize, sage" target="dispatcher, sovereign">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2722120" source="prize, sage" target="helper, innocent">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2722126" source="prize, sage" target="helper, rebel">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2722128" source="prize, sage" target="helper, magician">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2722132" source="prize, sage" target="helper, caregiver">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2722145" source="prize, sage" target="protagonist, innocent">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2722149" source="prize, sage" target="villain, caregiver">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2722153" source="prize, sage" target="villain, citizen">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2722156" source="prize, sage" target="protagonist, sovereign">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2722229" source="prize, sage" target="helper, sovereign">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2722245" source="prize, sage" target="prize, innocent">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2722276" source="prize, sage" target="protagonist, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2722327" source="prize, sage" target="helper, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2722346" source="prize, sage" target="prize, citizen">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2722354" source="prize, sage" target="protagonist, citizen">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2722373" source="prize, sage" target="helper, explorer">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2722374" source="prize, sage" target="protagonist, jester">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2722398" source="prize, sage" target="villain, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2722418" source="dispatcher, caregiver" target="villain, trickster">
+            <data key="weight">234.0</data>
+        </edge>
+        <edge id="2722420" source="dispatcher, caregiver" target="prize, lover">
+            <data key="weight">390.0</data>
+        </edge>
+        <edge id="2722424" source="dispatcher, caregiver" target="villain, explorer">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2722429" source="dispatcher, caregiver" target="protagonist, explorer">
+            <data key="weight">598.0</data>
+        </edge>
+        <edge id="2722431" source="dispatcher, caregiver" target="helper, trickster">
+            <data key="weight">208.0</data>
+        </edge>
+        <edge id="2722441" source="dispatcher, caregiver" target="villain, magician">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2722446" source="dispatcher, caregiver" target="helper, animal">
+            <data key="weight">338.0</data>
+        </edge>
+        <edge id="2722448" source="dispatcher, caregiver" target="protagonist, rebel">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2722449" source="dispatcher, caregiver" target="helper, monster">
+            <data key="weight">156.0</data>
+        </edge>
+        <edge id="2722450" source="dispatcher, caregiver" target="villain, monster">
+            <data key="weight">234.0</data>
+        </edge>
+        <edge id="2722451" source="dispatcher, caregiver" target="protagonist, caregiver">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2722453" source="dispatcher, caregiver" target="helper, lover">
+            <data key="weight">364.0</data>
+        </edge>
+        <edge id="2722454" source="dispatcher, caregiver" target="villain, rebel">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2722455" source="dispatcher, caregiver" target="protagonist, lover">
+            <data key="weight">286.0</data>
+        </edge>
+        <edge id="2722459" source="dispatcher, caregiver" target="helper, sage">
+            <data key="weight">208.0</data>
+        </edge>
+        <edge id="2722464" source="dispatcher, caregiver" target="villain, sovereign">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2722465" source="dispatcher, caregiver" target="dispatcher, sovereign">
+            <data key="weight">312.0</data>
+        </edge>
+        <edge id="2722468" source="dispatcher, caregiver" target="helper, rebel">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2722470" source="dispatcher, caregiver" target="helper, magician">
+            <data key="weight">338.0</data>
+        </edge>
+        <edge id="2722474" source="dispatcher, caregiver" target="helper, caregiver">
+            <data key="weight">494.0</data>
+        </edge>
+        <edge id="2722487" source="dispatcher, caregiver" target="protagonist, innocent">
+            <data key="weight">364.0</data>
+        </edge>
+        <edge id="2722495" source="dispatcher, caregiver" target="villain, citizen">
+            <data key="weight">442.0</data>
+        </edge>
+        <edge id="2722501" source="dispatcher, caregiver" target="helper, citizen">
+            <data key="weight">1092.0</data>
+        </edge>
+        <edge id="2722502" source="dispatcher, caregiver" target="villain, lover">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2722531" source="dispatcher, caregiver" target="dispatcher, lover">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2722571" source="dispatcher, caregiver" target="helper, sovereign">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2722669" source="dispatcher, caregiver" target="helper, object">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2722705" source="dispatcher, caregiver" target="protagonist, citizen">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2722707" source="dispatcher, caregiver" target="protagonist, sovereign">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2722740" source="dispatcher, caregiver" target="villain, object">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2722760" source="protagonist, explorer" target="villain, trickster">
+            <data key="weight">414.0</data>
+        </edge>
+        <edge id="2722766" source="protagonist, explorer" target="villain, explorer">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2722773" source="protagonist, explorer" target="helper, trickster">
+            <data key="weight">368.0</data>
+        </edge>
+        <edge id="2722788" source="protagonist, explorer" target="helper, animal">
+            <data key="weight">598.0</data>
+        </edge>
+        <edge id="2722793" source="protagonist, explorer" target="protagonist, caregiver">
+            <data key="weight">138.0</data>
+        </edge>
+        <edge id="2722795" source="protagonist, explorer" target="helper, lover">
+            <data key="weight">644.0</data>
+        </edge>
+        <edge id="2722796" source="protagonist, explorer" target="villain, rebel">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2722797" source="protagonist, explorer" target="protagonist, lover">
+            <data key="weight">506.0</data>
+        </edge>
+        <edge id="2722800" source="protagonist, explorer" target="helper, monster">
+            <data key="weight">276.0</data>
+        </edge>
+        <edge id="2722801" source="protagonist, explorer" target="helper, sage">
+            <data key="weight">368.0</data>
+        </edge>
+        <edge id="2722805" source="protagonist, explorer" target="prize, lover">
+            <data key="weight">690.0</data>
+        </edge>
+        <edge id="2722806" source="protagonist, explorer" target="villain, sovereign">
+            <data key="weight">460.0</data>
+        </edge>
+        <edge id="2722807" source="protagonist, explorer" target="dispatcher, sovereign">
+            <data key="weight">552.0</data>
+        </edge>
+        <edge id="2722812" source="protagonist, explorer" target="helper, magician">
+            <data key="weight">598.0</data>
+        </edge>
+        <edge id="2722813" source="protagonist, explorer" target="villain, monster">
+            <data key="weight">414.0</data>
+        </edge>
+        <edge id="2722816" source="protagonist, explorer" target="helper, caregiver">
+            <data key="weight">874.0</data>
+        </edge>
+        <edge id="2722829" source="protagonist, explorer" target="protagonist, innocent">
+            <data key="weight">644.0</data>
+        </edge>
+        <edge id="2722830" source="protagonist, explorer" target="villain, magician">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2722837" source="protagonist, explorer" target="villain, citizen">
+            <data key="weight">782.0</data>
+        </edge>
+        <edge id="2722839" source="protagonist, explorer" target="helper, rebel">
+            <data key="weight">184.0</data>
+        </edge>
+        <edge id="2722843" source="protagonist, explorer" target="helper, citizen">
+            <data key="weight">1932.0</data>
+        </edge>
+        <edge id="2722844" source="protagonist, explorer" target="villain, lover">
+            <data key="weight">138.0</data>
+        </edge>
+        <edge id="2722853" source="protagonist, explorer" target="protagonist, rebel">
+            <data key="weight">138.0</data>
+        </edge>
+        <edge id="2722873" source="protagonist, explorer" target="dispatcher, lover">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2722913" source="protagonist, explorer" target="helper, sovereign">
+            <data key="weight">460.0</data>
+        </edge>
+        <edge id="2723011" source="protagonist, explorer" target="helper, object">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2723047" source="protagonist, explorer" target="protagonist, citizen">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2723049" source="protagonist, explorer" target="protagonist, sovereign">
+            <data key="weight">92.0</data>
+        </edge>
+        <edge id="2723082" source="protagonist, explorer" target="villain, object">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2723102" source="protagonist, lover" target="villain, trickster">
+            <data key="weight">198.0</data>
+        </edge>
+        <edge id="2723108" source="protagonist, lover" target="villain, explorer">
+            <data key="weight">44.0</data>
+        </edge>
+        <edge id="2723115" source="protagonist, lover" target="helper, trickster">
+            <data key="weight">176.0</data>
+        </edge>
+        <edge id="2723130" source="protagonist, lover" target="helper, animal">
+            <data key="weight">286.0</data>
+        </edge>
+        <edge id="2723135" source="protagonist, lover" target="protagonist, caregiver">
+            <data key="weight">66.0</data>
+        </edge>
+        <edge id="2723137" source="protagonist, lover" target="helper, lover">
+            <data key="weight">308.0</data>
+        </edge>
+        <edge id="2723138" source="protagonist, lover" target="villain, rebel">
+            <data key="weight">88.0</data>
+        </edge>
+        <edge id="2723142" source="protagonist, lover" target="helper, monster">
+            <data key="weight">132.0</data>
+        </edge>
+        <edge id="2723143" source="protagonist, lover" target="helper, sage">
+            <data key="weight">176.0</data>
+        </edge>
+        <edge id="2723147" source="protagonist, lover" target="prize, lover">
+            <data key="weight">330.0</data>
+        </edge>
+        <edge id="2723148" source="protagonist, lover" target="villain, sovereign">
+            <data key="weight">220.0</data>
+        </edge>
+        <edge id="2723149" source="protagonist, lover" target="dispatcher, sovereign">
+            <data key="weight">264.0</data>
+        </edge>
+        <edge id="2723155" source="protagonist, lover" target="villain, monster">
+            <data key="weight">198.0</data>
+        </edge>
+        <edge id="2723160" source="protagonist, lover" target="helper, magician">
+            <data key="weight">286.0</data>
+        </edge>
+        <edge id="2723172" source="protagonist, lover" target="villain, magician">
+            <data key="weight">88.0</data>
+        </edge>
+        <edge id="2723181" source="protagonist, lover" target="helper, rebel">
+            <data key="weight">88.0</data>
+        </edge>
+        <edge id="2723183" source="protagonist, lover" target="protagonist, innocent">
+            <data key="weight">308.0</data>
+        </edge>
+        <edge id="2723185" source="protagonist, lover" target="helper, citizen">
+            <data key="weight">924.0</data>
+        </edge>
+        <edge id="2723186" source="protagonist, lover" target="villain, lover">
+            <data key="weight">66.0</data>
+        </edge>
+        <edge id="2723187" source="protagonist, lover" target="villain, citizen">
+            <data key="weight">374.0</data>
+        </edge>
+        <edge id="2723195" source="protagonist, lover" target="protagonist, rebel">
+            <data key="weight">66.0</data>
+        </edge>
+        <edge id="2723199" source="protagonist, lover" target="helper, caregiver">
+            <data key="weight">418.0</data>
+        </edge>
+        <edge id="2723215" source="protagonist, lover" target="dispatcher, lover">
+            <data key="weight">44.0</data>
+        </edge>
+        <edge id="2723273" source="protagonist, lover" target="helper, sovereign">
+            <data key="weight">220.0</data>
+        </edge>
+        <edge id="2723353" source="protagonist, lover" target="helper, object">
+            <data key="weight">44.0</data>
+        </edge>
+        <edge id="2723389" source="protagonist, lover" target="protagonist, citizen">
+            <data key="weight">44.0</data>
+        </edge>
+        <edge id="2723391" source="protagonist, lover" target="protagonist, sovereign">
+            <data key="weight">44.0</data>
+        </edge>
+        <edge id="2723424" source="protagonist, lover" target="villain, object">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2723450" source="villain, trickster" target="villain, explorer">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2723457" source="villain, trickster" target="helper, trickster">
+            <data key="weight">144.0</data>
+        </edge>
+        <edge id="2723472" source="villain, trickster" target="helper, animal">
+            <data key="weight">234.0</data>
+        </edge>
+        <edge id="2723477" source="villain, trickster" target="protagonist, caregiver">
+            <data key="weight">54.0</data>
+        </edge>
+        <edge id="2723479" source="villain, trickster" target="helper, lover">
+            <data key="weight">252.0</data>
+        </edge>
+        <edge id="2723480" source="villain, trickster" target="villain, rebel">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2723484" source="villain, trickster" target="helper, monster">
+            <data key="weight">108.0</data>
+        </edge>
+        <edge id="2723485" source="villain, trickster" target="helper, sage">
+            <data key="weight">144.0</data>
+        </edge>
+        <edge id="2723489" source="villain, trickster" target="prize, lover">
+            <data key="weight">270.0</data>
+        </edge>
+        <edge id="2723490" source="villain, trickster" target="villain, sovereign">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="2723491" source="villain, trickster" target="dispatcher, sovereign">
+            <data key="weight">216.0</data>
+        </edge>
+        <edge id="2723497" source="villain, trickster" target="villain, monster">
+            <data key="weight">162.0</data>
+        </edge>
+        <edge id="2723502" source="villain, trickster" target="helper, magician">
+            <data key="weight">234.0</data>
+        </edge>
+        <edge id="2723514" source="villain, trickster" target="villain, magician">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2723523" source="villain, trickster" target="helper, rebel">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2723525" source="villain, trickster" target="protagonist, innocent">
+            <data key="weight">252.0</data>
+        </edge>
+        <edge id="2723527" source="villain, trickster" target="helper, citizen">
+            <data key="weight">756.0</data>
+        </edge>
+        <edge id="2723528" source="villain, trickster" target="villain, lover">
+            <data key="weight">54.0</data>
+        </edge>
+        <edge id="2723529" source="villain, trickster" target="villain, citizen">
+            <data key="weight">306.0</data>
+        </edge>
+        <edge id="2723537" source="villain, trickster" target="protagonist, rebel">
+            <data key="weight">54.0</data>
+        </edge>
+        <edge id="2723541" source="villain, trickster" target="helper, caregiver">
+            <data key="weight">342.0</data>
+        </edge>
+        <edge id="2723557" source="villain, trickster" target="dispatcher, lover">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2723615" source="villain, trickster" target="helper, sovereign">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="2723695" source="villain, trickster" target="helper, object">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2723714" source="villain, trickster" target="prize, citizen">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2723722" source="villain, trickster" target="protagonist, citizen">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2723733" source="villain, trickster" target="protagonist, sovereign">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2723741" source="villain, trickster" target="helper, explorer">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2723742" source="villain, trickster" target="protagonist, jester">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2723766" source="villain, trickster" target="villain, object">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2723815" source="villain, trickster" target="villain, innocent">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2723955" source="villain, trickster" target="prize, innocent">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2723986" source="villain, trickster" target="protagonist, object">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2724157" source="protagonist, trickster" target="villain, innocent">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2724297" source="protagonist, trickster" target="prize, innocent">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2724328" source="protagonist, trickster" target="protagonist, object">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2724398" source="protagonist, trickster" target="prize, citizen">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2724425" source="protagonist, trickster" target="helper, explorer">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2724426" source="protagonist, trickster" target="protagonist, jester">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2724450" source="protagonist, trickster" target="villain, object">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2724476" source="prize, lover" target="villain, explorer">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2724483" source="prize, lover" target="helper, trickster">
+            <data key="weight">240.0</data>
+        </edge>
+        <edge id="2724498" source="prize, lover" target="helper, animal">
+            <data key="weight">390.0</data>
+        </edge>
+        <edge id="2724503" source="prize, lover" target="protagonist, caregiver">
+            <data key="weight">90.0</data>
+        </edge>
+        <edge id="2724505" source="prize, lover" target="helper, lover">
+            <data key="weight">420.0</data>
+        </edge>
+        <edge id="2724506" source="prize, lover" target="villain, rebel">
+            <data key="weight">120.0</data>
+        </edge>
+        <edge id="2724510" source="prize, lover" target="helper, monster">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="2724511" source="prize, lover" target="helper, sage">
+            <data key="weight">240.0</data>
+        </edge>
+        <edge id="2724516" source="prize, lover" target="villain, sovereign">
+            <data key="weight">300.0</data>
+        </edge>
+        <edge id="2724517" source="prize, lover" target="dispatcher, sovereign">
+            <data key="weight">360.0</data>
+        </edge>
+        <edge id="2724523" source="prize, lover" target="villain, monster">
+            <data key="weight">270.0</data>
+        </edge>
+        <edge id="2724528" source="prize, lover" target="helper, magician">
+            <data key="weight">390.0</data>
+        </edge>
+        <edge id="2724540" source="prize, lover" target="villain, magician">
+            <data key="weight">120.0</data>
+        </edge>
+        <edge id="2724549" source="prize, lover" target="helper, rebel">
+            <data key="weight">120.0</data>
+        </edge>
+        <edge id="2724551" source="prize, lover" target="protagonist, innocent">
+            <data key="weight">420.0</data>
+        </edge>
+        <edge id="2724553" source="prize, lover" target="helper, citizen">
+            <data key="weight">1260.0</data>
+        </edge>
+        <edge id="2724554" source="prize, lover" target="villain, lover">
+            <data key="weight">90.0</data>
+        </edge>
+        <edge id="2724555" source="prize, lover" target="villain, citizen">
+            <data key="weight">510.0</data>
+        </edge>
+        <edge id="2724563" source="prize, lover" target="protagonist, rebel">
+            <data key="weight">90.0</data>
+        </edge>
+        <edge id="2724567" source="prize, lover" target="helper, caregiver">
+            <data key="weight">570.0</data>
+        </edge>
+        <edge id="2724583" source="prize, lover" target="dispatcher, lover">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2724641" source="prize, lover" target="helper, sovereign">
+            <data key="weight">300.0</data>
+        </edge>
+        <edge id="2724757" source="prize, lover" target="protagonist, citizen">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2724759" source="prize, lover" target="protagonist, sovereign">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2724791" source="prize, lover" target="helper, object">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2724841" source="dispatcher, caregiver" target="villain, innocent">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2724981" source="dispatcher, caregiver" target="prize, innocent">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2725012" source="dispatcher, caregiver" target="protagonist, object">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2725082" source="dispatcher, caregiver" target="prize, citizen">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2725109" source="dispatcher, caregiver" target="helper, explorer">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2725110" source="dispatcher, caregiver" target="protagonist, jester">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2725503" source="villain, explorer" target="dispatcher, lover">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2725508" source="villain, explorer" target="helper, trickster">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2725514" source="villain, explorer" target="helper, sage">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2725515" source="villain, explorer" target="helper, animal">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2725518" source="villain, explorer" target="helper, citizen">
+            <data key="weight">168.0</data>
+        </edge>
+        <edge id="2725519" source="villain, explorer" target="villain, magician">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2725520" source="villain, explorer" target="helper, lover">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2725522" source="villain, explorer" target="villain, rebel">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2725523" source="villain, explorer" target="protagonist, caregiver">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2725525" source="villain, explorer" target="villain, innocent">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2725526" source="villain, explorer" target="protagonist, rebel">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2725527" source="villain, explorer" target="helper, monster">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2725528" source="villain, explorer" target="villain, monster">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2725534" source="villain, explorer" target="villain, lover">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2725535" source="villain, explorer" target="villain, sovereign">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2725538" source="villain, explorer" target="dispatcher, sovereign">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2725546" source="villain, explorer" target="helper, rebel">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2725548" source="villain, explorer" target="helper, magician">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2725552" source="villain, explorer" target="helper, caregiver">
+            <data key="weight">76.0</data>
+        </edge>
+        <edge id="2725565" source="villain, explorer" target="protagonist, innocent">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2725573" source="villain, explorer" target="villain, citizen">
+            <data key="weight">68.0</data>
+        </edge>
+        <edge id="2725576" source="villain, explorer" target="protagonist, sovereign">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2725649" source="villain, explorer" target="helper, sovereign">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2725665" source="villain, explorer" target="prize, innocent">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2725696" source="villain, explorer" target="protagonist, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2725747" source="villain, explorer" target="helper, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2725766" source="villain, explorer" target="prize, citizen">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2725774" source="villain, explorer" target="protagonist, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2725793" source="villain, explorer" target="helper, explorer">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2725794" source="villain, explorer" target="protagonist, jester">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2725818" source="villain, explorer" target="villain, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2726192" source="dispatcher, lover" target="helper, trickster">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2726198" source="dispatcher, lover" target="helper, sage">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2726199" source="dispatcher, lover" target="helper, animal">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2726202" source="dispatcher, lover" target="helper, citizen">
+            <data key="weight">168.0</data>
+        </edge>
+        <edge id="2726203" source="dispatcher, lover" target="villain, magician">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2726204" source="dispatcher, lover" target="helper, lover">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2726211" source="dispatcher, lover" target="helper, monster">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2726212" source="dispatcher, lover" target="villain, monster">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2726213" source="dispatcher, lover" target="protagonist, caregiver">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2726216" source="dispatcher, lover" target="villain, rebel">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2726222" source="dispatcher, lover" target="dispatcher, sovereign">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2726226" source="dispatcher, lover" target="villain, sovereign">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2726230" source="dispatcher, lover" target="helper, rebel">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2726232" source="dispatcher, lover" target="helper, magician">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2726236" source="dispatcher, lover" target="helper, caregiver">
+            <data key="weight">76.0</data>
+        </edge>
+        <edge id="2726249" source="dispatcher, lover" target="protagonist, innocent">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2726257" source="dispatcher, lover" target="villain, citizen">
+            <data key="weight">68.0</data>
+        </edge>
+        <edge id="2726260" source="dispatcher, lover" target="protagonist, sovereign">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2726264" source="dispatcher, lover" target="villain, lover">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2726273" source="dispatcher, lover" target="protagonist, rebel">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2726333" source="dispatcher, lover" target="helper, sovereign">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2726349" source="dispatcher, lover" target="prize, innocent">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2726380" source="dispatcher, lover" target="protagonist, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2726431" source="dispatcher, lover" target="helper, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2726450" source="dispatcher, lover" target="prize, citizen">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2726458" source="dispatcher, lover" target="protagonist, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2726477" source="dispatcher, lover" target="helper, explorer">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2726478" source="dispatcher, lover" target="protagonist, jester">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2726502" source="dispatcher, lover" target="villain, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2727577" source="protagonist, explorer" target="villain, innocent">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2727717" source="protagonist, explorer" target="prize, innocent">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2727748" source="protagonist, explorer" target="protagonist, object">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2727818" source="protagonist, explorer" target="prize, citizen">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2727845" source="protagonist, explorer" target="helper, explorer">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2727846" source="protagonist, explorer" target="protagonist, jester">
+            <data key="weight">46.0</data>
+        </edge>
+        <edge id="2727918" source="helper, trickster" target="helper, animal">
+            <data key="weight">208.0</data>
+        </edge>
+        <edge id="2727923" source="helper, trickster" target="protagonist, caregiver">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2727925" source="helper, trickster" target="helper, lover">
+            <data key="weight">224.0</data>
+        </edge>
+        <edge id="2727926" source="helper, trickster" target="villain, rebel">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2727930" source="helper, trickster" target="helper, monster">
+            <data key="weight">96.0</data>
+        </edge>
+        <edge id="2727931" source="helper, trickster" target="helper, sage">
+            <data key="weight">128.0</data>
+        </edge>
+        <edge id="2727936" source="helper, trickster" target="villain, sovereign">
+            <data key="weight">160.0</data>
+        </edge>
+        <edge id="2727937" source="helper, trickster" target="dispatcher, sovereign">
+            <data key="weight">192.0</data>
+        </edge>
+        <edge id="2727943" source="helper, trickster" target="villain, monster">
+            <data key="weight">144.0</data>
+        </edge>
+        <edge id="2727948" source="helper, trickster" target="helper, magician">
+            <data key="weight">208.0</data>
+        </edge>
+        <edge id="2727960" source="helper, trickster" target="villain, magician">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2727969" source="helper, trickster" target="helper, rebel">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2727971" source="helper, trickster" target="protagonist, innocent">
+            <data key="weight">224.0</data>
+        </edge>
+        <edge id="2727973" source="helper, trickster" target="helper, citizen">
+            <data key="weight">672.0</data>
+        </edge>
+        <edge id="2727974" source="helper, trickster" target="villain, lover">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2727975" source="helper, trickster" target="villain, citizen">
+            <data key="weight">272.0</data>
+        </edge>
+        <edge id="2727983" source="helper, trickster" target="protagonist, rebel">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2727987" source="helper, trickster" target="helper, caregiver">
+            <data key="weight">304.0</data>
+        </edge>
+        <edge id="2728061" source="helper, trickster" target="helper, sovereign">
+            <data key="weight">160.0</data>
+        </edge>
+        <edge id="2728141" source="helper, trickster" target="helper, object">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2728177" source="helper, trickster" target="protagonist, citizen">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2728179" source="helper, trickster" target="protagonist, sovereign">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2728187" source="helper, trickster" target="helper, explorer">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2728188" source="helper, trickster" target="protagonist, jester">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2728212" source="helper, trickster" target="villain, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2728261" source="helper, trickster" target="villain, innocent">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2728401" source="helper, trickster" target="prize, innocent">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2728432" source="helper, trickster" target="protagonist, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2728502" source="helper, trickster" target="prize, citizen">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2729964" source="helper, sage" target="helper, citizen">
+            <data key="weight">672.0</data>
+        </edge>
+        <edge id="2729970" source="helper, sage" target="helper, animal">
+            <data key="weight">208.0</data>
+        </edge>
+        <edge id="2729974" source="helper, sage" target="villain, monster">
+            <data key="weight">144.0</data>
+        </edge>
+        <edge id="2729975" source="helper, sage" target="protagonist, caregiver">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2729977" source="helper, sage" target="helper, lover">
+            <data key="weight">224.0</data>
+        </edge>
+        <edge id="2729978" source="helper, sage" target="villain, rebel">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2729982" source="helper, sage" target="helper, monster">
+            <data key="weight">96.0</data>
+        </edge>
+        <edge id="2729984" source="helper, sage" target="dispatcher, sovereign">
+            <data key="weight">192.0</data>
+        </edge>
+        <edge id="2729988" source="helper, sage" target="villain, sovereign">
+            <data key="weight">160.0</data>
+        </edge>
+        <edge id="2729992" source="helper, sage" target="helper, rebel">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2729994" source="helper, sage" target="helper, magician">
+            <data key="weight">208.0</data>
+        </edge>
+        <edge id="2729998" source="helper, sage" target="helper, caregiver">
+            <data key="weight">304.0</data>
+        </edge>
+        <edge id="2730011" source="helper, sage" target="protagonist, innocent">
+            <data key="weight">224.0</data>
+        </edge>
+        <edge id="2730012" source="helper, sage" target="villain, magician">
+            <data key="weight">64.0</data>
+        </edge>
+        <edge id="2730019" source="helper, sage" target="villain, citizen">
+            <data key="weight">272.0</data>
+        </edge>
+        <edge id="2730022" source="helper, sage" target="protagonist, sovereign">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2730026" source="helper, sage" target="villain, lover">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2730035" source="helper, sage" target="protagonist, rebel">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2730095" source="helper, sage" target="helper, sovereign">
+            <data key="weight">160.0</data>
+        </edge>
+        <edge id="2730142" source="helper, sage" target="protagonist, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2730193" source="helper, sage" target="helper, object">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2730212" source="helper, sage" target="prize, citizen">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2730220" source="helper, sage" target="protagonist, citizen">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2730239" source="helper, sage" target="helper, explorer">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2730240" source="helper, sage" target="protagonist, jester">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2730264" source="helper, sage" target="villain, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2730317" source="helper, animal" target="protagonist, caregiver">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2730319" source="helper, animal" target="helper, lover">
+            <data key="weight">364.0</data>
+        </edge>
+        <edge id="2730320" source="helper, animal" target="villain, rebel">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2730324" source="helper, animal" target="helper, monster">
+            <data key="weight">156.0</data>
+        </edge>
+        <edge id="2730330" source="helper, animal" target="villain, sovereign">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2730331" source="helper, animal" target="dispatcher, sovereign">
+            <data key="weight">312.0</data>
+        </edge>
+        <edge id="2730337" source="helper, animal" target="villain, monster">
+            <data key="weight">234.0</data>
+        </edge>
+        <edge id="2730340" source="helper, animal" target="helper, caregiver">
+            <data key="weight">494.0</data>
+        </edge>
+        <edge id="2730342" source="helper, animal" target="helper, magician">
+            <data key="weight">338.0</data>
+        </edge>
+        <edge id="2730354" source="helper, animal" target="villain, magician">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2730363" source="helper, animal" target="helper, rebel">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2730365" source="helper, animal" target="protagonist, innocent">
+            <data key="weight">364.0</data>
+        </edge>
+        <edge id="2730367" source="helper, animal" target="helper, citizen">
+            <data key="weight">1092.0</data>
+        </edge>
+        <edge id="2730368" source="helper, animal" target="villain, lover">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2730369" source="helper, animal" target="villain, citizen">
+            <data key="weight">442.0</data>
+        </edge>
+        <edge id="2730377" source="helper, animal" target="protagonist, rebel">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2730455" source="helper, animal" target="helper, sovereign">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2730535" source="helper, animal" target="helper, object">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2730554" source="helper, animal" target="prize, citizen">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2730562" source="helper, animal" target="protagonist, citizen">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2730573" source="helper, animal" target="protagonist, sovereign">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2730581" source="helper, animal" target="helper, explorer">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2730582" source="helper, animal" target="protagonist, jester">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2730606" source="helper, animal" target="villain, object">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2731343" source="helper, citizen" target="protagonist, caregiver">
+            <data key="weight">252.0</data>
+        </edge>
+        <edge id="2731345" source="helper, citizen" target="helper, lover">
+            <data key="weight">1176.0</data>
+        </edge>
+        <edge id="2731346" source="helper, citizen" target="villain, rebel">
+            <data key="weight">336.0</data>
+        </edge>
+        <edge id="2731350" source="helper, citizen" target="helper, monster">
+            <data key="weight">504.0</data>
+        </edge>
+        <edge id="2731356" source="helper, citizen" target="villain, sovereign">
+            <data key="weight">840.0</data>
+        </edge>
+        <edge id="2731357" source="helper, citizen" target="dispatcher, sovereign">
+            <data key="weight">1008.0</data>
+        </edge>
+        <edge id="2731363" source="helper, citizen" target="villain, monster">
+            <data key="weight">756.0</data>
+        </edge>
+        <edge id="2731368" source="helper, citizen" target="helper, magician">
+            <data key="weight">1092.0</data>
+        </edge>
+        <edge id="2731380" source="helper, citizen" target="villain, magician">
+            <data key="weight">336.0</data>
+        </edge>
+        <edge id="2731389" source="helper, citizen" target="helper, rebel">
+            <data key="weight">336.0</data>
+        </edge>
+        <edge id="2731391" source="helper, citizen" target="protagonist, innocent">
+            <data key="weight">1176.0</data>
+        </edge>
+        <edge id="2731394" source="helper, citizen" target="villain, lover">
+            <data key="weight">252.0</data>
+        </edge>
+        <edge id="2731395" source="helper, citizen" target="villain, citizen">
+            <data key="weight">1428.0</data>
+        </edge>
+        <edge id="2731403" source="helper, citizen" target="protagonist, rebel">
+            <data key="weight">252.0</data>
+        </edge>
+        <edge id="2731407" source="helper, citizen" target="helper, caregiver">
+            <data key="weight">1596.0</data>
+        </edge>
+        <edge id="2731463" source="helper, citizen" target="helper, sovereign">
+            <data key="weight">840.0</data>
+        </edge>
+        <edge id="2731561" source="helper, citizen" target="helper, object">
+            <data key="weight">168.0</data>
+        </edge>
+        <edge id="2731597" source="helper, citizen" target="protagonist, citizen">
+            <data key="weight">168.0</data>
+        </edge>
+        <edge id="2731599" source="helper, citizen" target="protagonist, sovereign">
+            <data key="weight">168.0</data>
+        </edge>
+        <edge id="2731632" source="helper, citizen" target="villain, object">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2731685" source="villain, magician" target="protagonist, caregiver">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2731687" source="villain, magician" target="helper, lover">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2731688" source="villain, magician" target="villain, rebel">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2731692" source="villain, magician" target="helper, monster">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2731698" source="villain, magician" target="villain, sovereign">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2731699" source="villain, magician" target="dispatcher, sovereign">
+            <data key="weight">96.0</data>
+        </edge>
+        <edge id="2731705" source="villain, magician" target="villain, monster">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2731710" source="villain, magician" target="helper, magician">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2731731" source="villain, magician" target="helper, rebel">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2731733" source="villain, magician" target="protagonist, innocent">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2731736" source="villain, magician" target="villain, lover">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2731737" source="villain, magician" target="villain, citizen">
+            <data key="weight">136.0</data>
+        </edge>
+        <edge id="2731745" source="villain, magician" target="protagonist, rebel">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2731749" source="villain, magician" target="helper, caregiver">
+            <data key="weight">152.0</data>
+        </edge>
+        <edge id="2731823" source="villain, magician" target="helper, sovereign">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2731939" source="villain, magician" target="protagonist, citizen">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2731941" source="villain, magician" target="protagonist, sovereign">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2731973" source="villain, magician" target="helper, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2732027" source="helper, lover" target="protagonist, caregiver">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2732030" source="helper, lover" target="villain, rebel">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2732034" source="helper, lover" target="helper, monster">
+            <data key="weight">168.0</data>
+        </edge>
+        <edge id="2732040" source="helper, lover" target="villain, sovereign">
+            <data key="weight">280.0</data>
+        </edge>
+        <edge id="2732041" source="helper, lover" target="dispatcher, sovereign">
+            <data key="weight">336.0</data>
+        </edge>
+        <edge id="2732047" source="helper, lover" target="villain, monster">
+            <data key="weight">252.0</data>
+        </edge>
+        <edge id="2732050" source="helper, lover" target="helper, caregiver">
+            <data key="weight">532.0</data>
+        </edge>
+        <edge id="2732052" source="helper, lover" target="helper, magician">
+            <data key="weight">364.0</data>
+        </edge>
+        <edge id="2732063" source="helper, lover" target="protagonist, innocent">
+            <data key="weight">392.0</data>
+        </edge>
+        <edge id="2732071" source="helper, lover" target="villain, citizen">
+            <data key="weight">476.0</data>
+        </edge>
+        <edge id="2732073" source="helper, lover" target="helper, rebel">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2732078" source="helper, lover" target="villain, lover">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2732087" source="helper, lover" target="protagonist, rebel">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2732147" source="helper, lover" target="helper, sovereign">
+            <data key="weight">280.0</data>
+        </edge>
+        <edge id="2732245" source="helper, lover" target="helper, object">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2732272" source="helper, lover" target="protagonist, citizen">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2732283" source="helper, lover" target="protagonist, sovereign">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2732291" source="helper, lover" target="helper, explorer">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2732292" source="helper, lover" target="protagonist, jester">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2732316" source="helper, lover" target="villain, object">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2732709" source="villain, rebel" target="helper, monster">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2732710" source="villain, rebel" target="villain, monster">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2732711" source="villain, rebel" target="protagonist, caregiver">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2732716" source="villain, rebel" target="villain, lover">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2732717" source="villain, rebel" target="villain, sovereign">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2732720" source="villain, rebel" target="dispatcher, sovereign">
+            <data key="weight">96.0</data>
+        </edge>
+        <edge id="2732728" source="villain, rebel" target="helper, rebel">
+            <data key="weight">32.0</data>
+        </edge>
+        <edge id="2732730" source="villain, rebel" target="helper, magician">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2732734" source="villain, rebel" target="helper, caregiver">
+            <data key="weight">152.0</data>
+        </edge>
+        <edge id="2732747" source="villain, rebel" target="protagonist, innocent">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2732755" source="villain, rebel" target="villain, citizen">
+            <data key="weight">136.0</data>
+        </edge>
+        <edge id="2732758" source="villain, rebel" target="protagonist, sovereign">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2732771" source="villain, rebel" target="protagonist, rebel">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2732831" source="villain, rebel" target="helper, sovereign">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2732847" source="villain, rebel" target="prize, innocent">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2732878" source="villain, rebel" target="protagonist, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2732929" source="villain, rebel" target="helper, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2732948" source="villain, rebel" target="prize, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2732956" source="villain, rebel" target="protagonist, citizen">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2732975" source="villain, rebel" target="helper, explorer">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2732976" source="villain, rebel" target="protagonist, jester">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2733000" source="villain, rebel" target="villain, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2733050" source="protagonist, caregiver" target="protagonist, rebel">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2733051" source="protagonist, caregiver" target="helper, monster">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2733052" source="protagonist, caregiver" target="villain, monster">
+            <data key="weight">54.0</data>
+        </edge>
+        <edge id="2733062" source="protagonist, caregiver" target="dispatcher, sovereign">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2733066" source="protagonist, caregiver" target="villain, sovereign">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2733072" source="protagonist, caregiver" target="helper, magician">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2733076" source="protagonist, caregiver" target="helper, caregiver">
+            <data key="weight">114.0</data>
+        </edge>
+        <edge id="2733089" source="protagonist, caregiver" target="protagonist, innocent">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2733097" source="protagonist, caregiver" target="villain, citizen">
+            <data key="weight">102.0</data>
+        </edge>
+        <edge id="2733099" source="protagonist, caregiver" target="helper, rebel">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2733100" source="protagonist, caregiver" target="protagonist, sovereign">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2733104" source="protagonist, caregiver" target="villain, lover">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2733173" source="protagonist, caregiver" target="helper, sovereign">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2733220" source="protagonist, caregiver" target="protagonist, object">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733271" source="protagonist, caregiver" target="helper, object">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2733290" source="protagonist, caregiver" target="prize, citizen">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733298" source="protagonist, caregiver" target="protagonist, citizen">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2733317" source="protagonist, caregiver" target="helper, explorer">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733318" source="protagonist, caregiver" target="protagonist, jester">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733342" source="protagonist, caregiver" target="villain, object">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733391" source="helper, animal" target="villain, innocent">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2733531" source="helper, animal" target="prize, innocent">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2733562" source="helper, animal" target="protagonist, object">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2733734" source="villain, innocent" target="protagonist, rebel">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733735" source="villain, innocent" target="helper, monster">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2733736" source="villain, innocent" target="villain, monster">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2733737" source="villain, innocent" target="protagonist, caregiver">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733739" source="villain, innocent" target="helper, lover">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2733740" source="villain, innocent" target="villain, rebel">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2733741" source="villain, innocent" target="protagonist, lover">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2733742" source="villain, innocent" target="villain, lover">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2733743" source="villain, innocent" target="villain, sovereign">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2733745" source="villain, innocent" target="helper, sage">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2733746" source="villain, innocent" target="dispatcher, sovereign">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2733748" source="villain, innocent" target="helper, innocent">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2733749" source="villain, innocent" target="prize, lover">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2733754" source="villain, innocent" target="helper, rebel">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2733756" source="villain, innocent" target="helper, magician">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2733760" source="villain, innocent" target="helper, caregiver">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2733773" source="villain, innocent" target="protagonist, innocent">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2733774" source="villain, innocent" target="villain, magician">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2733777" source="villain, innocent" target="villain, caregiver">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2733781" source="villain, innocent" target="villain, citizen">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2733784" source="villain, innocent" target="protagonist, sovereign">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2733787" source="villain, innocent" target="helper, citizen">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2733817" source="villain, innocent" target="dispatcher, lover">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2733857" source="villain, innocent" target="helper, sovereign">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2733873" source="villain, innocent" target="prize, innocent">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2733904" source="villain, innocent" target="protagonist, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2733955" source="villain, innocent" target="helper, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2733974" source="villain, innocent" target="prize, citizen">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2733982" source="villain, innocent" target="protagonist, citizen">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2734001" source="villain, innocent" target="helper, explorer">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2734002" source="villain, innocent" target="protagonist, jester">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2734026" source="villain, innocent" target="villain, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2734086" source="protagonist, rebel" target="helper, monster">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2734092" source="protagonist, rebel" target="villain, sovereign">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2734093" source="protagonist, rebel" target="dispatcher, sovereign">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2734099" source="protagonist, rebel" target="villain, monster">
+            <data key="weight">54.0</data>
+        </edge>
+        <edge id="2734104" source="protagonist, rebel" target="helper, magician">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2734125" source="protagonist, rebel" target="helper, rebel">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2734127" source="protagonist, rebel" target="protagonist, innocent">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2734130" source="protagonist, rebel" target="villain, lover">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2734131" source="protagonist, rebel" target="villain, citizen">
+            <data key="weight">102.0</data>
+        </edge>
+        <edge id="2734143" source="protagonist, rebel" target="helper, caregiver">
+            <data key="weight">114.0</data>
+        </edge>
+        <edge id="2734217" source="protagonist, rebel" target="helper, sovereign">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2734297" source="protagonist, rebel" target="helper, object">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2734333" source="protagonist, rebel" target="protagonist, citizen">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2734335" source="protagonist, rebel" target="protagonist, sovereign">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2734368" source="protagonist, rebel" target="villain, object">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2734434" source="helper, monster" target="villain, sovereign">
+            <data key="weight">120.0</data>
+        </edge>
+        <edge id="2734435" source="helper, monster" target="dispatcher, sovereign">
+            <data key="weight">144.0</data>
+        </edge>
+        <edge id="2734441" source="helper, monster" target="villain, monster">
+            <data key="weight">108.0</data>
+        </edge>
+        <edge id="2734446" source="helper, monster" target="helper, magician">
+            <data key="weight">156.0</data>
+        </edge>
+        <edge id="2734467" source="helper, monster" target="helper, rebel">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2734469" source="helper, monster" target="protagonist, innocent">
+            <data key="weight">168.0</data>
+        </edge>
+        <edge id="2734472" source="helper, monster" target="villain, lover">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2734473" source="helper, monster" target="villain, citizen">
+            <data key="weight">204.0</data>
+        </edge>
+        <edge id="2734485" source="helper, monster" target="helper, caregiver">
+            <data key="weight">228.0</data>
+        </edge>
+        <edge id="2734559" source="helper, monster" target="helper, sovereign">
+            <data key="weight">120.0</data>
+        </edge>
+        <edge id="2734675" source="helper, monster" target="protagonist, citizen">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2734677" source="helper, monster" target="protagonist, sovereign">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2734709" source="helper, monster" target="helper, object">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2734776" source="villain, monster" target="villain, sovereign">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="2734777" source="villain, monster" target="dispatcher, sovereign">
+            <data key="weight">216.0</data>
+        </edge>
+        <edge id="2734788" source="villain, monster" target="helper, magician">
+            <data key="weight">234.0</data>
+        </edge>
+        <edge id="2734809" source="villain, monster" target="helper, rebel">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2734811" source="villain, monster" target="protagonist, innocent">
+            <data key="weight">252.0</data>
+        </edge>
+        <edge id="2734814" source="villain, monster" target="villain, lover">
+            <data key="weight">54.0</data>
+        </edge>
+        <edge id="2734815" source="villain, monster" target="villain, citizen">
+            <data key="weight">306.0</data>
+        </edge>
+        <edge id="2734827" source="villain, monster" target="helper, caregiver">
+            <data key="weight">342.0</data>
+        </edge>
+        <edge id="2734901" source="villain, monster" target="helper, sovereign">
+            <data key="weight">180.0</data>
+        </edge>
+        <edge id="2735017" source="villain, monster" target="protagonist, citizen">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2735019" source="villain, monster" target="protagonist, sovereign">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2735051" source="villain, monster" target="helper, object">
+            <data key="weight">36.0</data>
+        </edge>
+        <edge id="2735241" source="protagonist, caregiver" target="prize, innocent">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2735925" source="helper, lover" target="prize, innocent">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2735956" source="helper, lover" target="protagonist, object">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2736026" source="helper, lover" target="prize, citizen">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2736609" source="protagonist, lover" target="prize, innocent">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2736640" source="protagonist, lover" target="protagonist, object">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2736710" source="protagonist, lover" target="prize, citizen">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2736737" source="protagonist, lover" target="helper, explorer">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2736738" source="protagonist, lover" target="protagonist, jester">
+            <data key="weight">22.0</data>
+        </edge>
+        <edge id="2736824" source="villain, lover" target="dispatcher, sovereign">
+            <data key="weight">72.0</data>
+        </edge>
+        <edge id="2736828" source="villain, lover" target="villain, sovereign">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2736834" source="villain, lover" target="helper, magician">
+            <data key="weight">78.0</data>
+        </edge>
+        <edge id="2736838" source="villain, lover" target="helper, caregiver">
+            <data key="weight">114.0</data>
+        </edge>
+        <edge id="2736851" source="villain, lover" target="protagonist, innocent">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2736859" source="villain, lover" target="villain, citizen">
+            <data key="weight">102.0</data>
+        </edge>
+        <edge id="2736861" source="villain, lover" target="helper, rebel">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2736935" source="villain, lover" target="helper, sovereign">
+            <data key="weight">60.0</data>
+        </edge>
+        <edge id="2736951" source="villain, lover" target="prize, innocent">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2736982" source="villain, lover" target="protagonist, object">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2737033" source="villain, lover" target="helper, object">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737052" source="villain, lover" target="prize, citizen">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2737060" source="villain, lover" target="protagonist, citizen">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737071" source="villain, lover" target="protagonist, sovereign">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737079" source="villain, lover" target="helper, explorer">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2737080" source="villain, lover" target="protagonist, jester">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2737104" source="villain, lover" target="villain, object">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2737171" source="villain, sovereign" target="dispatcher, sovereign">
+            <data key="weight">240.0</data>
+        </edge>
+        <edge id="2737182" source="villain, sovereign" target="helper, magician">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2737193" source="villain, sovereign" target="protagonist, innocent">
+            <data key="weight">280.0</data>
+        </edge>
+        <edge id="2737203" source="villain, sovereign" target="helper, rebel">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2737209" source="villain, sovereign" target="villain, citizen">
+            <data key="weight">340.0</data>
+        </edge>
+        <edge id="2737221" source="villain, sovereign" target="helper, caregiver">
+            <data key="weight">380.0</data>
+        </edge>
+        <edge id="2737277" source="villain, sovereign" target="helper, sovereign">
+            <data key="weight">200.0</data>
+        </edge>
+        <edge id="2737375" source="villain, sovereign" target="helper, object">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2737411" source="villain, sovereign" target="protagonist, citizen">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2737413" source="villain, sovereign" target="protagonist, sovereign">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2737446" source="villain, sovereign" target="villain, object">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2737635" source="helper, monster" target="prize, innocent">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737666" source="helper, monster" target="protagonist, object">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737736" source="helper, monster" target="prize, citizen">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737763" source="helper, monster" target="helper, explorer">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737764" source="helper, monster" target="protagonist, jester">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737788" source="helper, monster" target="villain, object">
+            <data key="weight">12.0</data>
+        </edge>
+        <edge id="2737977" source="helper, sage" target="prize, innocent">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2738206" source="dispatcher, sovereign" target="helper, caregiver">
+            <data key="weight">456.0</data>
+        </edge>
+        <edge id="2738208" source="dispatcher, sovereign" target="helper, magician">
+            <data key="weight">312.0</data>
+        </edge>
+        <edge id="2738229" source="dispatcher, sovereign" target="helper, rebel">
+            <data key="weight">96.0</data>
+        </edge>
+        <edge id="2738231" source="dispatcher, sovereign" target="protagonist, innocent">
+            <data key="weight">336.0</data>
+        </edge>
+        <edge id="2738235" source="dispatcher, sovereign" target="villain, citizen">
+            <data key="weight">408.0</data>
+        </edge>
+        <edge id="2738303" source="dispatcher, sovereign" target="helper, sovereign">
+            <data key="weight">240.0</data>
+        </edge>
+        <edge id="2738401" source="dispatcher, sovereign" target="helper, object">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2738420" source="dispatcher, sovereign" target="prize, citizen">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2738428" source="dispatcher, sovereign" target="protagonist, citizen">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2738439" source="dispatcher, sovereign" target="protagonist, sovereign">
+            <data key="weight">48.0</data>
+        </edge>
+        <edge id="2738447" source="dispatcher, sovereign" target="helper, explorer">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2738448" source="dispatcher, sovereign" target="protagonist, jester">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2738472" source="dispatcher, sovereign" target="villain, object">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2739003" source="helper, innocent" target="prize, innocent">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2739034" source="helper, innocent" target="protagonist, object">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2739104" source="helper, innocent" target="prize, citizen">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2739345" source="prize, lover" target="prize, innocent">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2739376" source="prize, lover" target="protagonist, object">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2739446" source="prize, lover" target="prize, citizen">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2739473" source="prize, lover" target="helper, explorer">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2739474" source="prize, lover" target="protagonist, jester">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2739498" source="prize, lover" target="villain, object">
+            <data key="weight">30.0</data>
+        </edge>
+        <edge id="2739687" source="villain, sovereign" target="prize, innocent">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2739718" source="villain, sovereign" target="protagonist, object">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2739788" source="villain, sovereign" target="prize, citizen">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2739815" source="villain, sovereign" target="helper, explorer">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2739816" source="villain, sovereign" target="protagonist, jester">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2740029" source="dispatcher, sovereign" target="prize, innocent">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2740060" source="dispatcher, sovereign" target="protagonist, object">
+            <data key="weight">24.0</data>
+        </edge>
+        <edge id="2740944" source="helper, rebel" target="helper, magician">
+            <data key="weight">104.0</data>
+        </edge>
+        <edge id="2740967" source="helper, rebel" target="protagonist, innocent">
+            <data key="weight">112.0</data>
+        </edge>
+        <edge id="2740971" source="helper, rebel" target="villain, citizen">
+            <data key="weight">136.0</data>
+        </edge>
+        <edge id="2740983" source="helper, rebel" target="helper, caregiver">
+            <data key="weight">152.0</data>
+        </edge>
+        <edge id="2741057" source="helper, rebel" target="helper, sovereign">
+            <data key="weight">80.0</data>
+        </edge>
+        <edge id="2741173" source="helper, rebel" target="protagonist, citizen">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2741175" source="helper, rebel" target="protagonist, sovereign">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2741207" source="helper, rebel" target="helper, object">
+            <data key="weight">16.0</data>
+        </edge>
+        <edge id="2741651" source="helper, magician" target="protagonist, innocent">
+            <data key="weight">364.0</data>
+        </edge>
+        <edge id="2741655" source="helper, magician" target="villain, citizen">
+            <data key="weight">442.0</data>
+        </edge>
+        <edge id="2741667" source="helper, magician" target="helper, caregiver">
+            <data key="weight">494.0</data>
+        </edge>
+        <edge id="2741741" source="helper, magician" target="helper, sovereign">
+            <data key="weight">260.0</data>
+        </edge>
+        <edge id="2741857" source="helper, magician" target="protagonist, citizen">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2741859" source="helper, magician" target="protagonist, sovereign">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2741891" source="helper, magician" target="helper, object">
+            <data key="weight">52.0</data>
+        </edge>
+        <edge id="2742081" source="villain, monster" target="prize, innocent">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2742112" source="villain, monster" target="protagonist, object">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2742182" source="villain, monster" target="prize, citizen">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2742209" source="villain, monster" target="helper, explorer">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2742210" source="villain, monster" target="protagonist, jester">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2742234" source="villain, monster" target="villain, object">
+            <data key="weight">18.0</data>
+        </edge>
+        <edge id="2743019" source="helper, caregiver" target="protagonist, innocent">
+            <data key="weight">532.0</data>
+        </edge>
+        <edge id="2743023" source="helper, caregiver" target="villain, citizen">
+            <data key="weight">646.0</data>
+        </edge>
+        <edge id="2743109" source="helper, caregiver" target="helper, sovereign">
+            <data key="weight">380.0</data>
+        </edge>
+        <edge id="2743225" source="helper, caregiver" target="protagonist, citizen">
+            <data key="weight">76.0</data>
+        </edge>
+        <edge id="2743227" source="helper, caregiver" target="protagonist, sovereign">
+            <data key="weight">76.0</data>
+        </edge>
+        <edge id="2743259" source="helper, caregiver" target="helper, object">
+            <data key="weight">76.0</data>
+        </edge>
+        <edge id="2743791" source="helper, magician" target="prize, innocent">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2743822" source="helper, magician" target="protagonist, object">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2743892" source="helper, magician" target="prize, citizen">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2743919" source="helper, magician" target="helper, explorer">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2743920" source="helper, magician" target="protagonist, jester">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2743944" source="helper, magician" target="villain, object">
+            <data key="weight">26.0</data>
+        </edge>
+        <edge id="2747469" source="protagonist, innocent" target="villain, citizen">
+            <data key="weight">476.0</data>
+        </edge>
+        <edge id="2747555" source="protagonist, innocent" target="helper, sovereign">
+            <data key="weight">280.0</data>
+        </edge>
+        <edge id="2747671" source="protagonist, innocent" target="protagonist, citizen">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2747673" source="protagonist, innocent" target="protagonist, sovereign">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2747705" source="protagonist, innocent" target="helper, object">
+            <data key="weight">56.0</data>
+        </edge>
+        <edge id="2747895" source="villain, magician" target="prize, innocent">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2747926" source="villain, magician" target="protagonist, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2747996" source="villain, magician" target="prize, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2748023" source="villain, magician" target="helper, explorer">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2748024" source="villain, magician" target="protagonist, jester">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2748048" source="villain, magician" target="villain, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2748921" source="villain, caregiver" target="prize, innocent">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2748952" source="villain, caregiver" target="protagonist, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2750291" source="villain, citizen" target="helper, sovereign">
+            <data key="weight">340.0</data>
+        </edge>
+        <edge id="2750407" source="villain, citizen" target="protagonist, citizen">
+            <data key="weight">68.0</data>
+        </edge>
+        <edge id="2750409" source="villain, citizen" target="protagonist, sovereign">
+            <data key="weight">68.0</data>
+        </edge>
+        <edge id="2750441" source="villain, citizen" target="helper, object">
+            <data key="weight">68.0</data>
+        </edge>
+        <edge id="2750973" source="helper, rebel" target="prize, innocent">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751004" source="helper, rebel" target="protagonist, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751074" source="helper, rebel" target="prize, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751101" source="helper, rebel" target="helper, explorer">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751102" source="helper, rebel" target="protagonist, jester">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751126" source="helper, rebel" target="villain, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751317" source="protagonist, sovereign" target="helper, sovereign">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2751397" source="protagonist, sovereign" target="helper, object">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751433" source="protagonist, sovereign" target="protagonist, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2751443" source="protagonist, sovereign" target="helper, explorer">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2751444" source="protagonist, sovereign" target="protagonist, jester">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2751468" source="protagonist, sovereign" target="villain, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2751657" source="protagonist, innocent" target="prize, innocent">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2751688" source="protagonist, innocent" target="protagonist, object">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2751758" source="protagonist, innocent" target="prize, citizen">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2751785" source="protagonist, innocent" target="helper, explorer">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2751786" source="protagonist, innocent" target="protagonist, jester">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2751810" source="protagonist, innocent" target="villain, object">
+            <data key="weight">28.0</data>
+        </edge>
+        <edge id="2752341" source="helper, citizen" target="prize, innocent">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2752372" source="helper, citizen" target="protagonist, object">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2752442" source="helper, citizen" target="prize, citizen">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2752469" source="helper, citizen" target="helper, explorer">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2752470" source="helper, citizen" target="protagonist, jester">
+            <data key="weight">84.0</data>
+        </edge>
+        <edge id="2753025" source="villain, citizen" target="prize, innocent">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2753056" source="villain, citizen" target="protagonist, object">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2753126" source="villain, citizen" target="prize, citizen">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2753153" source="villain, citizen" target="helper, explorer">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2753154" source="villain, citizen" target="protagonist, jester">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2753178" source="villain, citizen" target="villain, object">
+            <data key="weight">34.0</data>
+        </edge>
+        <edge id="2755761" source="protagonist, rebel" target="prize, innocent">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2755792" source="protagonist, rebel" target="protagonist, object">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2755862" source="protagonist, rebel" target="prize, citizen">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2755889" source="protagonist, rebel" target="helper, explorer">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2755890" source="protagonist, rebel" target="protagonist, jester">
+            <data key="weight">6.0</data>
+        </edge>
+        <edge id="2757129" source="helper, caregiver" target="prize, innocent">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2757160" source="helper, caregiver" target="protagonist, object">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2757230" source="helper, caregiver" target="prize, citizen">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2757257" source="helper, caregiver" target="helper, explorer">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2757258" source="helper, caregiver" target="protagonist, jester">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2757282" source="helper, caregiver" target="villain, object">
+            <data key="weight">38.0</data>
+        </edge>
+        <edge id="2776399" source="helper, sovereign" target="protagonist, citizen">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2776433" source="helper, sovereign" target="helper, object">
+            <data key="weight">40.0</data>
+        </edge>
+        <edge id="2781755" source="prize, innocent" target="helper, sovereign">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2781784" source="prize, innocent" target="protagonist, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2781835" source="prize, innocent" target="helper, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2781854" source="prize, innocent" target="prize, citizen">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2781862" source="prize, innocent" target="protagonist, citizen">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2781873" source="prize, innocent" target="protagonist, sovereign">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2781881" source="prize, innocent" target="helper, explorer">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2781882" source="prize, innocent" target="protagonist, jester">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2781906" source="prize, innocent" target="villain, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2782468" source="helper, sovereign" target="protagonist, object">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2782538" source="helper, sovereign" target="prize, citizen">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2782565" source="helper, sovereign" target="helper, explorer">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2782566" source="helper, sovereign" target="protagonist, jester">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2782590" source="helper, sovereign" target="villain, object">
+            <data key="weight">20.0</data>
+        </edge>
+        <edge id="2792437" source="protagonist, object" target="helper, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2792456" source="protagonist, object" target="prize, citizen">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2792464" source="protagonist, object" target="protagonist, citizen">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2792475" source="protagonist, object" target="protagonist, sovereign">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2792483" source="protagonist, object" target="helper, explorer">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2792484" source="protagonist, object" target="protagonist, jester">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2792508" source="protagonist, object" target="villain, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2809915" source="helper, object" target="protagonist, citizen">
+            <data key="weight">8.0</data>
+        </edge>
+        <edge id="2809950" source="helper, object" target="villain, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2816404" source="prize, citizen" target="protagonist, citizen">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2816415" source="prize, citizen" target="protagonist, sovereign">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2816423" source="prize, citizen" target="helper, explorer">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2816424" source="prize, citizen" target="protagonist, jester">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2816447" source="prize, citizen" target="helper, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2816448" source="prize, citizen" target="villain, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2819159" source="protagonist, citizen" target="helper, explorer">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2819160" source="protagonist, citizen" target="protagonist, jester">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2819184" source="protagonist, citizen" target="villain, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2825658" source="helper, explorer" target="protagonist, jester">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2825681" source="helper, explorer" target="helper, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2825682" source="helper, explorer" target="villain, object">
+            <data key="weight">2.0</data>
+        </edge>
+        <edge id="2826023" source="protagonist, jester" target="helper, object">
+            <data key="weight">4.0</data>
+        </edge>
+        <edge id="2826024" source="protagonist, jester" target="villain, object">
+            <data key="weight">2.0</data>
+        </edge>
+    </graph>
+</graphml>

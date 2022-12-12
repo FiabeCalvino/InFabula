@@ -1,0 +1,2421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<character>
+   <Id>"pescatore"</Id>
+   <Label>pescatore</Label>
+   <Source>#fable58</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"pesce"</Id>
+   <Label>pesce</Label>
+   <Source>#fable58</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"moglie"</Id>
+   <Label>moglie</Label>
+   <Source>#fable58</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"primogenito"</Id>
+   <Label>primogenito</Label>
+   <Source>#fable58</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"oste"</Id>
+   <Label>oste</Label>
+   <Source>#fable58</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Drago con sette teste"</Id>
+   <Label>Drago con sette teste</Label>
+   <Source>#fable58</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"figlia"</Id>
+   <Label>figlia</Label>
+   <Source>#fable58</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable58</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"carbonaio"</Id>
+   <Label>carbonaio</Label>
+   <Source>#fable58</Source>
+   <type>villain, rebel</type>
+</character>
+<character>
+   <Id>"cane"</Id>
+   <Label>cane</Label>
+   <Source>#fable58</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"vecchierella"</Id>
+   <Label>vecchierella</Label>
+   <Source>#fable58</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"secondogenito"</Id>
+   <Label>secondogenito</Label>
+   <Source>#fable58</Source>
+   <type>helper, hero</type>
+</character>
+<character>
+   <Id>"terzogenito"</Id>
+   <Label>terzogenito</Label>
+   <Source>#fable58</Source>
+   <type>helper, hero</type>
+</character>
+<character>
+   <Id>"mercante"</Id>
+   <Label>mercante</Label>
+   <Source>#fable59</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Assunta"</Id>
+   <Label>Assunta</Label>
+   <Source>#fable59</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Carolina"</Id>
+   <Label>Carolina</Label>
+   <Source>#fable59</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Bellinda"</Id>
+   <Label>Bellinda</Label>
+   <Source>#fable59</Source>
+   <type>protagonist, caregiver</type>
+</character>
+<character>
+   <Id>"Mostro"</Id>
+   <Label>Mostro</Label>
+   <Source>#fable59</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"bel cavaliere"</Id>
+   <Label>bel cavaliere</Label>
+   <Source>#fable59</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"ragazzo"</Id>
+   <Label>ragazzo</Label>
+   <Source>#fable60</Source>
+   <type>protagonist, rebel</type>
+</character>
+<character>
+   <Id>"genitori"</Id>
+   <Label>genitori</Label>
+   <Source>#fable60</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"uomo"</Id>
+   <Label>uomo</Label>
+   <Source>#fable60</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable60</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"carcerati"</Id>
+   <Label>carcerati</Label>
+   <Source>#fable60</Source>
+   <type>helper, jester</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable60</Source>
+   <type>prize, innocent</type>
+</character>
+<character>
+   <Id>"Re Massimiliano"</Id>
+   <Label>Re Massimiliano</Label>
+   <Source>#fable61</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Andreino"</Id>
+   <Label>Andreino</Label>
+   <Source>#fable61</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"Mago"</Id>
+   <Label>Mago</Label>
+   <Source>#fable61</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"anziano"</Id>
+   <Label>anziano</Label>
+   <Source>#fable61</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Gugliermo"</Id>
+   <Label>Gugliermo</Label>
+   <Source>#fable61</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Giovanni"</Id>
+   <Label>Giovanni</Label>
+   <Source>#fable61</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Lugistella"</Id>
+   <Label>Lugistella</Label>
+   <Source>#fable61</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Isabella"</Id>
+   <Label>Isabella</Label>
+   <Source>#fable61</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Andreino"</Id>
+   <Label>Andreino</Label>
+   <Source>#fable61</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"Farfanello"</Id>
+   <Label>Farfanello</Label>
+   <Source>#fable61</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"soldati"</Id>
+   <Label>soldati</Label>
+   <Source>#fable61</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Fata Morgana"</Id>
+   <Label>Fata Morgana</Label>
+   <Source>#fable61</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"Regina Marmotta"</Id>
+   <Label>Regina Marmotta</Label>
+   <Source>#fable61</Source>
+   <type>helper, sovereign</type>
+</character>
+<character>
+   <Id>"mercante"</Id>
+   <Label>mercante</Label>
+   <Source>#fable62</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"Menichino"</Id>
+   <Label>Menichino</Label>
+   <Source>#fable62</Source>
+   <type>protagonist, rebel</type>
+</character>
+<character>
+   <Id>"vecchia"</Id>
+   <Label>vecchia</Label>
+   <Source>#fable62</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"Fata"</Id>
+   <Label>Fata</Label>
+   <Source>#fable62</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"Re
+                  del Portogallo"</Id>
+   <Label>Re
+                  del Portogallo</Label>
+   <Source>#fable62</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"cane"</Id>
+   <Label>cane</Label>
+   <Source>#fable62</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"donna"</Id>
+   <Label>donna</Label>
+   <Source>#fable62</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable62</Source>
+   <type>prize, sage</type>
+</character>
+<character>
+   <Id>"Mago"</Id>
+   <Label>Mago</Label>
+   <Source>#fable62</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"fratello"</Id>
+   <Label>fratello</Label>
+   <Source>#fable62</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable62</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Principi e Baroni"</Id>
+   <Label>Principi e Baroni</Label>
+   <Source>#fable62</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable62</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"fratello maggiore"</Id>
+   <Label>fratello maggiore</Label>
+   <Source>#fable62</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"sicari"</Id>
+   <Label>sicari</Label>
+   <Source>#fable62</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"mercante di
+                  buoi"</Id>
+   <Label>mercante di
+                  buoi</Label>
+   <Source>#fable62</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable63</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Giovanni"</Id>
+   <Label>Giovanni</Label>
+   <Source>#fable63</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"Antonio"</Id>
+   <Label>Antonio</Label>
+   <Source>#fable63</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"scimmia"</Id>
+   <Label>scimmia</Label>
+   <Source>#fable63</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"scimmia"</Id>
+   <Label>scimmia</Label>
+   <Source>#fable63</Source>
+   <type>prize, animal</type>
+</character>
+<character>
+   <Id>"ragazza bella"</Id>
+   <Label>ragazza bella</Label>
+   <Source>#fable63</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"pover'uomo"</Id>
+   <Label>pover'uomo</Label>
+   <Source>#fable64</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Assunta"</Id>
+   <Label>Assunta</Label>
+   <Source>#fable64</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Rosina"</Id>
+   <Label>Rosina</Label>
+   <Source>#fable64</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"matrigna"</Id>
+   <Label>matrigna</Label>
+   <Source>#fable64</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"una delle vacche più
+                  vecchie"</Id>
+   <Label>una delle vacche più
+                  vecchie</Label>
+   <Source>#fable64</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"quattro rospette"</Id>
+   <Label>quattro rospette</Label>
+   <Source>#fable64</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"rospetta azzoppata"</Id>
+   <Label>rospetta azzoppata</Label>
+   <Source>#fable64</Source>
+   <type>villain, animal</type>
+</character>
+<character>
+   <Id>"cacciatore"</Id>
+   <Label>cacciatore</Label>
+   <Source>#fable64</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"figlio del Re"</Id>
+   <Label>figlio del Re</Label>
+   <Source>#fable64</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable65</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable65</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"fratello maggiore"</Id>
+   <Label>fratello maggiore</Label>
+   <Source>#fable65</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"tappetaio"</Id>
+   <Label>tappetaio</Label>
+   <Source>#fable65</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"fratello mezzano"</Id>
+   <Label>fratello mezzano</Label>
+   <Source>#fable65</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"merciaio ambulante"</Id>
+   <Label>merciaio ambulante</Label>
+   <Source>#fable65</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Principe"</Id>
+   <Label>Principe</Label>
+   <Source>#fable65</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"fruttivendolo"</Id>
+   <Label>fruttivendolo</Label>
+   <Source>#fable65</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable66</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Fiordinando"</Id>
+   <Label>Fiordinando</Label>
+   <Source>#fable66</Source>
+   <type>protagonist, sage</type>
+</character>
+<character>
+   <Id>"cacciatore"</Id>
+   <Label>cacciatore</Label>
+   <Source>#fable66</Source>
+   <type>helper, explorer</type>
+</character>
+<character>
+   <Id>"dodici damigelle"</Id>
+   <Label>dodici damigelle</Label>
+   <Source>#fable66</Source>
+   <type>helper, creator</type>
+</character>
+<character>
+   <Id>"Regina "</Id>
+   <Label>Regina </Label>
+   <Source>#fable66</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"madre"</Id>
+   <Label>madre</Label>
+   <Source>#fable66</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"oste"</Id>
+   <Label>oste</Label>
+   <Source>#fable66</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable66</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"eremita"</Id>
+   <Label>eremita</Label>
+   <Source>#fable66</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"contadino"</Id>
+   <Label>contadino</Label>
+   <Source>#fable67</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"testa di
+                  bufala"</Id>
+   <Label>testa di
+                  bufala</Label>
+   <Source>#fable67</Source>
+   <type>helper, object</type>
+</character>
+<character>
+   <Id>"mamma"</Id>
+   <Label>mamma</Label>
+   <Source>#fable67</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"bambina"</Id>
+   <Label>bambina</Label>
+   <Source>#fable67</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable67</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"Principe"</Id>
+   <Label>Principe</Label>
+   <Source>#fable67</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable67</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"Pietro"</Id>
+   <Label>Pietro</Label>
+   <Source>#fable68</Source>
+   <type>protagonist, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable68</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable68</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Mago"</Id>
+   <Label>Mago</Label>
+   <Source>#fable68</Source>
+   <type>dispatcher, magician</type>
+</character>
+<character>
+   <Id>"Maga"</Id>
+   <Label>Maga</Label>
+   <Source>#fable68</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"Governatore"</Id>
+   <Label>Governatore</Label>
+   <Source>#fable68</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"moglie"</Id>
+   <Label>moglie</Label>
+   <Source>#fable68</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Carolina"</Id>
+   <Label>Carolina</Label>
+   <Source>#fable69</Source>
+   <type>helper, sovereign</type>
+</character>
+<character>
+   <Id>"Assuntina"</Id>
+   <Label>Assuntina</Label>
+   <Source>#fable69</Source>
+   <type>helper, sovereign</type>
+</character>
+<character>
+   <Id>"Fanta-Ghirò"</Id>
+   <Label>Fanta-Ghirò</Label>
+   <Source>#fable69</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable69</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"Tonino"</Id>
+   <Label>Tonino</Label>
+   <Source>#fable69</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Re nemico"</Id>
+   <Label>Re nemico</Label>
+   <Source>#fable69</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"madre"</Id>
+   <Label>madre</Label>
+   <Source>#fable69</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable70</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"sorelle"</Id>
+   <Label>sorelle</Label>
+   <Source>#fable70</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable70</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"balia"</Id>
+   <Label>balia</Label>
+   <Source>#fable70</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"becchino"</Id>
+   <Label>becchino</Label>
+   <Source>#fable70</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable70</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"figlio del Re"</Id>
+   <Label>figlio del Re</Label>
+   <Source>#fable70</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"ricco Ebreo"</Id>
+   <Label>ricco Ebreo</Label>
+   <Source>#fable71</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"contadino"</Id>
+   <Label>contadino</Label>
+   <Source>#fable71</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Uliva"</Id>
+   <Label>Uliva</Label>
+   <Source>#fable71</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable71</Source>
+   <type>helper, lover</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable71</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"vecchina"</Id>
+   <Label>vecchina</Label>
+   <Source>#fable71</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"contadino"</Id>
+   <Label>contadino</Label>
+   <Source>#fable72</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"Caterina"</Id>
+   <Label>Caterina</Label>
+   <Source>#fable72</Source>
+   <type>protagonist, creator</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable72</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable72</Source>
+   <type>protagonist, creator</type>
+</character>
+<character>
+   <Id>"contadino"</Id>
+   <Label>contadino</Label>
+   <Source>#fable72</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"uomo benestante"</Id>
+   <Label>uomo benestante</Label>
+   <Source>#fable73</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Giuseppe"</Id>
+   <Label>Giuseppe</Label>
+   <Source>#fable73</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"selvaggi vestiti di pelli d'animali"</Id>
+   <Label>selvaggi vestiti di pelli d'animali</Label>
+   <Source>#fable73</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable73</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"bella selvaggia"</Id>
+   <Label>bella selvaggia</Label>
+   <Source>#fable73</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"figlia del Re"</Id>
+   <Label>figlia del Re</Label>
+   <Source>#fable73</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"animale"</Id>
+   <Label>animale</Label>
+   <Source>#fable73</Source>
+   <type>helper, monster</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable74</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable74</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"astrologhi"</Id>
+   <Label>astrologhi</Label>
+   <Source>#fable74</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"balia"</Id>
+   <Label>balia</Label>
+   <Source>#fable74</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"figlia della balia"</Id>
+   <Label>figlia della balia</Label>
+   <Source>#fable74</Source>
+   <type>helper, explorer</type>
+</character>
+<character>
+   <Id>"Sole"</Id>
+   <Label>Sole</Label>
+   <Source>#fable74</Source>
+   <type>dispatcher, element</type>
+</character>
+<character>
+   <Id>"figlia
+                  del Re"</Id>
+   <Label>figlia
+                  del Re</Label>
+   <Source>#fable</Source>
+   <type>dispatcher, innocent</type>
+</character>
+<character>
+   <Id>"figlia del Sole"</Id>
+   <Label>figlia del Sole</Label>
+   <Source>#fable74</Source>
+   <type>protagonist, magician</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable74</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"figlio del Re"</Id>
+   <Label>figlio del Re</Label>
+   <Source>#fable74</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"forno"</Id>
+   <Label>forno</Label>
+   <Source>#fable74</Source>
+   <type>helper, object</type>
+</character>
+<character>
+   <Id>"Ambasciatori"</Id>
+   <Label>Ambasciatori</Label>
+   <Source>#fable74</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"sposa"</Id>
+   <Label>sposa</Label>
+   <Source>#fable74</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"padella"</Id>
+   <Label>padella</Label>
+   <Source>#fable74</Source>
+   <type>helper, object</type>
+</character>
+<character>
+   <Id>"coltello"</Id>
+   <Label>coltello</Label>
+   <Source>#fable74</Source>
+   <type>helper, object</type>
+</character>
+<character>
+   <Id>"vecchia maga"</Id>
+   <Label>vecchia maga</Label>
+   <Source>#fable74</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable75</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable75</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"astrologhi"</Id>
+   <Label>astrologhi</Label>
+   <Source>#fable75</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Regina di Inghilterra"</Id>
+   <Label>Regina di Inghilterra</Label>
+   <Source>#fable75</Source>
+   <type>protagonist, sovereign</type>
+</character>
+<character>
+   <Id>"cavallina"</Id>
+   <Label>cavallina</Label>
+   <Source>#fable75</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"figlio
+                  del Re"</Id>
+   <Label>figlio
+                  del Re</Label>
+   <Source>#fable75</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"drago"</Id>
+   <Label>drago</Label>
+   <Source>#fable75</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"contadino"</Id>
+   <Label>contadino</Label>
+   <Source>#fable75</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"madre"</Id>
+   <Label>madre</Label>
+   <Source>#fable75</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Principe"</Id>
+   <Label>Principe</Label>
+   <Source>#fable75</Source>
+   <type>dispatcher, lover</type>
+</character>
+<character>
+   <Id>"bella signora"</Id>
+   <Label>bella signora</Label>
+   <Source>#fable75</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"Fiorentino"</Id>
+   <Label>Fiorentino</Label>
+   <Source>#fable76</Source>
+   <type>protagonist, jester</type>
+</character>
+<character>
+   <Id>"curato"</Id>
+   <Label>curato</Label>
+   <Source>#fable76</Source>
+   <type>helper, explorer</type>
+</character>
+<character>
+   <Id>"fattore"</Id>
+   <Label>fattore</Label>
+   <Source>#fable76</Source>
+   <type>helper, explorer</type>
+</character>
+<character>
+   <Id>"Gigante"</Id>
+   <Label>Gigante</Label>
+   <Source>#fable76</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable77</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"figlio"</Id>
+   <Label>figlio</Label>
+   <Source>#fable77</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"due fratelli"</Id>
+   <Label>due fratelli</Label>
+   <Source>#fable77</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable77</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"Lisabetta"</Id>
+   <Label>Lisabetta</Label>
+   <Source>#fable77</Source>
+   <type>helper, innocent</type>
+</character>
+<character>
+   <Id>"dodici assassini"</Id>
+   <Label>dodici assassini</Label>
+   <Source>#fable77</Source>
+   <type>villain, rebel</type>
+</character>
+<character>
+   <Id>"due pastori"</Id>
+   <Label>due pastori</Label>
+   <Source>#fable77</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Principe"</Id>
+   <Label>Principe</Label>
+   <Source>#fable77</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"uomo tutto
+                  peloso"</Id>
+   <Label>uomo tutto
+                  peloso</Label>
+   <Source>#fable77</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"fornaio"</Id>
+   <Label>fornaio</Label>
+   <Source>#fable78</Source>
+   <type>protagonist, lover</type>
+</character>
+<character>
+   <Id>"Segretario"</Id>
+   <Label>Segretario</Label>
+   <Source>#fable78</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable78</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Mago"</Id>
+   <Label>Mago</Label>
+   <Source>#fable78</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"gobbino"</Id>
+   <Label>gobbino</Label>
+   <Source>#fable78</Source>
+   <type>helper, monster</type>
+</character>
+<character>
+   <Id>"tre figlie"</Id>
+   <Label>tre figlie</Label>
+   <Source>#fable78</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"due compagni"</Id>
+   <Label>due compagni</Label>
+   <Source>#fable78</Source>
+   <type>villain, rebel</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable79</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Fioravante"</Id>
+   <Label>Fioravante</Label>
+   <Source>#fable79</Source>
+   <type>protagonist, lover</type>
+</character>
+<character>
+   <Id>"Sandrina"</Id>
+   <Label>Sandrina</Label>
+   <Source>#fable79</Source>
+   <type>prize, creator</type>
+</character>
+<character>
+   <Id>"assassino"</Id>
+   <Label>assassino</Label>
+   <Source>#fable79</Source>
+   <type>villain, rebel</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable79</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"cavallina"</Id>
+   <Label>cavallina</Label>
+   <Source>#fable79</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"Badessa"</Id>
+   <Label>Badessa</Label>
+   <Source>#fable79</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Isolina"</Id>
+   <Label>Isolina</Label>
+   <Source>#fable79</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"uomo"</Id>
+   <Label>uomo</Label>
+   <Source>#fable80</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"nipote"</Id>
+   <Label>nipote</Label>
+   <Source>#fable80</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"ladri"</Id>
+   <Label>ladri</Label>
+   <Source>#fable80</Source>
+   <type>villain, rebel</type>
+</character>
+<character>
+   <Id>"zio prete"</Id>
+   <Label>zio prete</Label>
+   <Source>#fable80</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"vecchina"</Id>
+   <Label>vecchina</Label>
+   <Source>#fable81</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable81</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"governante"</Id>
+   <Label>governante</Label>
+   <Source>#fable81</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"uccello dalle grandi
+                  ali"</Id>
+   <Label>uccello dalle grandi
+                  ali</Label>
+   <Source>#fable81</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable81</Source>
+   <type>protagonist, creator</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable81</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"figlio del Re"</Id>
+   <Label>figlio del Re</Label>
+   <Source>#fable81</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"piccina"</Id>
+   <Label>piccina</Label>
+   <Source>#fable81</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"tre sorelle maggiori"</Id>
+   <Label>tre sorelle maggiori</Label>
+   <Source>#fable81</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"bel giovane"</Id>
+   <Label>bel giovane</Label>
+   <Source>#fable81</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Campriano"</Id>
+   <Label>Campriano</Label>
+   <Source>#fable82</Source>
+   <type>protagonist, jester</type>
+</character>
+<character>
+   <Id>"Quelli di Ciciorana"</Id>
+   <Label>Quelli di Ciciorana</Label>
+   <Source>#fable82</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"moglie"</Id>
+   <Label>moglie</Label>
+   <Source>#fable82</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Geppone"</Id>
+   <Label>Geppone</Label>
+   <Source>#fable83</Source>
+   <type>protagonist, caregiver</type>
+</character>
+<character>
+   <Id>"Vento Tramontano"</Id>
+   <Label>Vento Tramontano</Label>
+   <Source>#fable83</Source>
+   <type>helper, element</type>
+</character>
+<character>
+   <Id>"Priore"</Id>
+   <Label>Priore</Label>
+   <Source>#fable83</Source>
+   <type>villain, sage</type>
+</character>
+<character>
+   <Id>"moglie"</Id>
+   <Label>moglie</Label>
+   <Source>#fable83</Source>
+   <type>dispatcher, innocent</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable84</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"voce"</Id>
+   <Label>voce</Label>
+   <Source>#fable84</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"figlio del Re Giona"</Id>
+   <Label>figlio del Re Giona</Label>
+   <Source>#fable84</Source>
+   <type>dispatcher, lover</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable84</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"balia"</Id>
+   <Label>balia</Label>
+   <Source>#fable84</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"ragazzo"</Id>
+   <Label>ragazzo</Label>
+   <Source>#fable84</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"Maga"</Id>
+   <Label>Maga</Label>
+   <Source>#fable84</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"vecchietto"</Id>
+   <Label>vecchietto</Label>
+   <Source>#fable84</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"due cieche"</Id>
+   <Label>due cieche</Label>
+   <Source>#fable84</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"bellissima fanciulla"</Id>
+   <Label>bellissima fanciulla</Label>
+   <Source>#fable84</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Drago"</Id>
+   <Label>Drago</Label>
+   <Source>#fable84</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable85</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"ragazza bianca e rossa come una mela"</Id>
+   <Label>ragazza bianca e rossa come una mela</Label>
+   <Source>#fable85</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable85</Source>
+   <type>protagonist, lover</type>
+</character>
+<character>
+   <Id>"matrigna"</Id>
+   <Label>matrigna</Label>
+   <Source>#fable85</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"Fata"</Id>
+   <Label>Fata</Label>
+   <Source>#fable85</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"donna"</Id>
+   <Label>donna</Label>
+   <Source>#fable86</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"Fata"</Id>
+   <Label>Fata</Label>
+   <Source>#fable86</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"Prezzemolina"</Id>
+   <Label>Prezzemolina</Label>
+   <Source>#fable86</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"Memé"</Id>
+   <Label>Memé</Label>
+   <Source>#fable86</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"Fata Morgana"</Id>
+   <Label>Fata Morgana</Label>
+   <Source>#fable86</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable87</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable87</Source>
+   <type>dispatcher, innocent</type>
+</character>
+<character>
+   <Id>"sorelle maggiori"</Id>
+   <Label>sorelle maggiori</Label>
+   <Source>#fable87</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"vecchia"</Id>
+   <Label>vecchia</Label>
+   <Source>#fable87</Source>
+   <type>villain, sage</type>
+</character>
+<character>
+   <Id>"barcaiolo"</Id>
+   <Label>barcaiolo</Label>
+   <Source>#fable87</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"bambina"</Id>
+   <Label>bambina</Label>
+   <Source>#fable87</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"fratello maggiore"</Id>
+   <Label>fratello maggiore</Label>
+   <Source>#fable87</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"eremita"</Id>
+   <Label>eremita</Label>
+   <Source>#fable87</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"secondo
+                  fratello"</Id>
+   <Label>secondo
+                  fratello</Label>
+   <Source>#fable87</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"Uccel bel-verde"</Id>
+   <Label>Uccel bel-verde</Label>
+   <Source>#fable87</Source>
+   <type>prize, animal</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable88</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"legnaiolo"</Id>
+   <Label>legnaiolo</Label>
+   <Source>#fable88</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Leonetta"</Id>
+   <Label>Leonetta</Label>
+   <Source>#fable88</Source>
+   <type>protagonist, rebel</type>
+</character>
+<character>
+   <Id>"sorelle"</Id>
+   <Label>sorelle</Label>
+   <Source>#fable88</Source>
+   <type>helper, innocent</type>
+</character>
+<character>
+   <Id>"damigelle"</Id>
+   <Label>damigelle</Label>
+   <Source>#fable88</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable89</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"assassino"</Id>
+   <Label>assassino</Label>
+   <Source>#fable89</Source>
+   <type>villain, rebel</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable89</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"mercanti di cotone"</Id>
+   <Label>mercanti di cotone</Label>
+   <Source>#fable89</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"moglie del
+                  marinaio"</Id>
+   <Label>moglie del
+                  marinaio</Label>
+   <Source>#fable89</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable89</Source>
+   <type>helper, lover</type>
+</character>
+<character>
+   <Id>"gobbo più
+                  giovane"</Id>
+   <Label>gobbo più
+                  giovane</Label>
+   <Source>#fable90</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"vecchine"</Id>
+   <Label>vecchine</Label>
+   <Source>#fable90</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"donna"</Id>
+   <Label>donna</Label>
+   <Source>#fable91</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"povera"</Id>
+   <Label>povera</Label>
+   <Source>#fable91</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"Cecino"</Id>
+   <Label>Cecino</Label>
+   <Source>#fable91</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"babbo"</Id>
+   <Label>babbo</Label>
+   <Source>#fable91</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"contadino"</Id>
+   <Label>contadino</Label>
+   <Source>#fable91</Source>
+   <type>dispatcher, citizen</type>
+</character>
+<character>
+   <Id>"ladri"</Id>
+   <Label>ladri</Label>
+   <Source>#fable91</Source>
+   <type>villain, rebel</type>
+</character>
+<character>
+   <Id>"lupo"</Id>
+   <Label>lupo</Label>
+   <Source>#fable91</Source>
+   <type>villain, animal</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable92</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"balia"</Id>
+   <Label>balia</Label>
+   <Source>#fable92</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable92</Source>
+   <type>protagonist, lover</type>
+</character>
+<character>
+   <Id>"fratelli"</Id>
+   <Label>fratelli</Label>
+   <Source>#fable92</Source>
+   <type>helper, hero</type>
+</character>
+<character>
+   <Id>"Re dei Pavoni"</Id>
+   <Label>Re dei Pavoni</Label>
+   <Source>#fable92</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"vecchierello"</Id>
+   <Label>vecchierello</Label>
+   <Source>#fable92</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"figliola"</Id>
+   <Label>figliola</Label>
+   <Source>#fable92</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"Capitano"</Id>
+   <Label>Capitano</Label>
+   <Source>#fable92</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"marinaio"</Id>
+   <Label>marinaio</Label>
+   <Source>#fable92</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"cagnolino"</Id>
+   <Label>cagnolino</Label>
+   <Source>#fable92</Source>
+   <type>helper, animal</type>
+</character>
+<character>
+   <Id>"vecchia vedova"</Id>
+   <Label>vecchia vedova</Label>
+   <Source>#fable93</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Maria"</Id>
+   <Label>Maria</Label>
+   <Source>#fable93</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"cane"</Id>
+   <Label>cane</Label>
+   <Source>#fable93</Source>
+   <type>villain, animal</type>
+</character>
+<character>
+   <Id>"Rosa"</Id>
+   <Label>Rosa</Label>
+   <Source>#fable93</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Nina"</Id>
+   <Label>Nina</Label>
+   <Source>#fable93</Source>
+   <type>protagonist, hero</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable93</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"ochina"</Id>
+   <Label>ochina</Label>
+   <Source>#fable94</Source>
+   <type>protagonist, animal</type>
+</character>
+<character>
+   <Id>"fabbro ferraio"</Id>
+   <Label>fabbro ferraio</Label>
+   <Source>#fable94</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"volpe"</Id>
+   <Label>volpe</Label>
+   <Source>#fable94</Source>
+   <type>villain, animal</type>
+</character>
+<character>
+   <Id>"madre"</Id>
+   <Label>madre</Label>
+   <Source>#fable95</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"vecchia"</Id>
+   <Label>vecchia</Label>
+   <Source>#fable95</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable95</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"sorellastra"</Id>
+   <Label>sorellastra</Label>
+   <Source>#fable95</Source>
+   <type>villain, innocent</type>
+</character>
+<character>
+   <Id>"figlio del Re"</Id>
+   <Label>figlio del Re</Label>
+   <Source>#fable95</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Quattordici"</Id>
+   <Label>Quattordici</Label>
+   <Source>#fable96</Source>
+   <type>protagonist, jester</type>
+</character>
+<character>
+   <Id>"mamma"</Id>
+   <Label>mamma</Label>
+   <Source>#fable96</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"contadino grossoContadì grosso (dial. marchigiano): "Con tale espressione si suol significare
+                  tra noi il contadino che conduca una vasta colonia e abbia numerosa famiglia" (Gianandrea)"</Id>
+   <Label>contadino grossoContadì grosso (dial. marchigiano): "Con tale espressione si suol significare
+                  tra noi il contadino che conduca una vasta colonia e abbia numerosa famiglia" (Gianandrea)</Label>
+   <Source>#fable96</Source>
+   <type>villain, citizen</type>
+</character>
+<character>
+   <Id>"diavoli"</Id>
+   <Label>diavoli</Label>
+   <Source>#fable96</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Lucibello"</Id>
+   <Label>Lucibello</Label>
+   <Source>#fable96</Source>
+   <type>helper, monster</type>
+</character>
+<character>
+   <Id>"Diavolo"</Id>
+   <Label>Diavolo</Label>
+   <Source>#fable96</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Giuanni"</Id>
+   <Label>Giuanni</Label>
+   <Source>#fable97</Source>
+   <type>protagonist, jester</type>
+</character>
+<character>
+   <Id>"Governatore"</Id>
+   <Label>Governatore</Label>
+   <Source>#fable97</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"pastore"</Id>
+   <Label>pastore</Label>
+   <Source>#fable97</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Gigante"</Id>
+   <Label>Gigante</Label>
+   <Source>#fable97</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Gallo cristallo"</Id>
+   <Label>Gallo cristallo</Label>
+   <Source>#fable98</Source>
+   <type>protagonist, animal</type>
+</character>
+<character>
+   <Id>"gallina cristallina"</Id>
+   <Label>gallina cristallina</Label>
+   <Source>#fable98</Source>
+   <type>protagonist, animal</type>
+</character>
+<character>
+   <Id>"oca contessa"</Id>
+   <Label>oca contessa</Label>
+   <Source>#fable98</Source>
+   <type>protagonist, animal</type>
+</character>
+<character>
+   <Id>"anatra badessa"</Id>
+   <Label>anatra badessa</Label>
+   <Source>#fable98</Source>
+   <type>protagonist, animal</type>
+</character>
+<character>
+   <Id>"uccellino cardellino"</Id>
+   <Label>uccellino cardellino</Label>
+   <Source>#fable98</Source>
+   <type>protagonist, animal</type>
+</character>
+<character>
+   <Id>"lupo"</Id>
+   <Label>lupo</Label>
+   <Source>#fable98</Source>
+   <type>villain, animal</type>
+</character>
+<character>
+   <Id>"donna"</Id>
+   <Label>donna</Label>
+   <Source>#fable98</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"mietitori"</Id>
+   <Label>mietitori</Label>
+   <Source>#fable98</Source>
+   <type>helper, citizen</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable99</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"padre"</Id>
+   <Label>padre</Label>
+   <Source>#fable99</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"vecchietto"</Id>
+   <Label>vecchietto</Label>
+   <Source>#fable99</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"figlio più piccolo"</Id>
+   <Label>figlio più piccolo</Label>
+   <Source>#fable99</Source>
+   <type>protagonist, creator</type>
+</character>
+<character>
+   <Id>"Barca"</Id>
+   <Label>Barca</Label>
+   <Source>#fable99</Source>
+   <type>helper, object</type>
+</character>
+<character>
+   <Id>"omone"</Id>
+   <Label>omone</Label>
+   <Source>#fable99</Source>
+   <type>helper, jester</type>
+</character>
+<character>
+   <Id>"omone"</Id>
+   <Label>omone</Label>
+   <Source>#fable99</Source>
+   <type>helper, jester</type>
+</character>
+<character>
+   <Id>"omone"</Id>
+   <Label>omone</Label>
+   <Source>#fable99</Source>
+   <type>helper, jester</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable99</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"il romano"</Id>
+   <Label>il romano</Label>
+   <Source>#fable100</Source>
+   <type>protagonist, rebel</type>
+</character>
+<character>
+   <Id>"gigante"</Id>
+   <Label>gigante</Label>
+   <Source>#fable100</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Il fiorentino"</Id>
+   <Label>Il fiorentino</Label>
+   <Source>#fable100</Source>
+   <type>protagonist, rebel</type>
+</character>
+<character>
+   <Id>"gigante"</Id>
+   <Label>gigante</Label>
+   <Source>#fable100</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Il soldato napoletano"</Id>
+   <Label>Il soldato napoletano</Label>
+   <Source>#fable100</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"tre vecchie"</Id>
+   <Label>tre vecchie</Label>
+   <Source>#fable100</Source>
+   <type>villain, magician</type>
+</character>
+<character>
+   <Id>"lupa incatenata con gli occhi fiammeggianti"</Id>
+   <Label>lupa incatenata con gli occhi fiammeggianti</Label>
+   <Source>#fable100</Source>
+   <type>villain, animal</type>
+</character>
+<character>
+   <Id>"Principessa"</Id>
+   <Label>Principessa</Label>
+   <Source>#fable100</Source>
+   <type>prize, creator</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable100</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"padre"</Id>
+   <Label>padre</Label>
+   <Source>#fable101</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Belmiele"</Id>
+   <Label>Belmiele</Label>
+   <Source>#fable101</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"Belsole"</Id>
+   <Label>Belsole</Label>
+   <Source>#fable101</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable101</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"balia"</Id>
+   <Label>balia</Label>
+   <Source>#fable101</Source>
+   <type>villain, trickster</type>
+</character>
+<character>
+   <Id>"balena"</Id>
+   <Label>balena</Label>
+   <Source>#fable101</Source>
+   <type>villain, trickster</type>
+</character>
+<character>
+   <Id>"mercante"</Id>
+   <Label>mercante</Label>
+   <Source>#fable102</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"figlia"</Id>
+   <Label>figlia</Label>
+   <Source>#fable102</Source>
+   <type>protagonist, lover</type>
+</character>
+<character>
+   <Id>"figlio del Re di Persia"</Id>
+   <Label>figlio del Re di Persia</Label>
+   <Source>#fable102</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable102</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable103</Source>
+   <type>villain, caregiver</type>
+</character>
+<character>
+   <Id>"Regina"</Id>
+   <Label>Regina</Label>
+   <Source>#fable103</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Maria"</Id>
+   <Label>Maria</Label>
+   <Source>#fable103</Source>
+   <type>protagonist, trickster</type>
+</character>
+<character>
+   <Id>"balia"</Id>
+   <Label>balia</Label>
+   <Source>#fable103</Source>
+   <type>helper, trickster</type>
+</character>
+<character>
+   <Id>"figlio del Re"</Id>
+   <Label>figlio del Re</Label>
+   <Source>#fable103</Source>
+   <type>helper, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable104</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"pidocchio"</Id>
+   <Label>pidocchio</Label>
+   <Source>#fable104</Source>
+   <type>dispatcher, animal</type>
+</character>
+<character>
+   <Id>"figlia del Re"</Id>
+   <Label>figlia del Re</Label>
+   <Source>#fable104</Source>
+   <type>protagonist, lover</type>
+</character>
+<character>
+   <Id>"innamorato"</Id>
+   <Label>innamorato</Label>
+   <Source>#fable104</Source>
+   <type>helper, lover</type>
+</character>
+<character>
+   <Id>"ciabattino gobbo"</Id>
+   <Label>ciabattino gobbo</Label>
+   <Source>#fable104</Source>
+   <type>villain, jester</type>
+</character>
+<character>
+   <Id>"cameriera"</Id>
+   <Label>cameriera</Label>
+   <Source>#fable104</Source>
+   <type>helper, trickster</type>
+</character>
+<character>
+   <Id>"moglie"</Id>
+   <Label>moglie</Label>
+   <Source>#fable105</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"figlia"</Id>
+   <Label>figlia</Label>
+   <Source>#fable105</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"padre"</Id>
+   <Label>padre</Label>
+   <Source>#fable105</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"sposo"</Id>
+   <Label>sposo</Label>
+   <Source>#fable105</Source>
+   <type>helper, lover</type>
+</character>
+<character>
+   <Id>"Berta"</Id>
+   <Label>Berta</Label>
+   <Source>#fable106</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"Nerone"</Id>
+   <Label>Nerone</Label>
+   <Source>#fable106</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"figlio di Re"</Id>
+   <Label>figlio di Re</Label>
+   <Source>#fable107</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"ragazza"</Id>
+   <Label>ragazza</Label>
+   <Source>#fable107</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Brutta Saracina"</Id>
+   <Label>Brutta Saracina</Label>
+   <Source>#fable107</Source>
+   <type>villain, trickster</type>
+</character>
+<character>
+   <Id>"cuoco"</Id>
+   <Label>cuoco</Label>
+   <Source>#fable107</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Giuseppe Ciufolo"</Id>
+   <Label>Giuseppe Ciufolo</Label>
+   <Source>#fable108</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"vecchio mendicante"</Id>
+   <Label>vecchio mendicante</Label>
+   <Source>#fable108</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Reginella"</Id>
+   <Label>Reginella</Label>
+   <Source>#fable108</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Bella Venezia"</Id>
+   <Label>Bella Venezia</Label>
+   <Source>#fable109</Source>
+   <type>villain, trickster</type>
+</character>
+<character>
+   <Id>"figlia"</Id>
+   <Label>figlia</Label>
+   <Source>#fable109</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"sguattero"</Id>
+   <Label>sguattero</Label>
+   <Source>#fable109</Source>
+   <type>helper, lover</type>
+</character>
+<character>
+   <Id>"dodici ladroni"</Id>
+   <Label>dodici ladroni</Label>
+   <Source>#fable109</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"figlio del Re"</Id>
+   <Label>figlio del Re</Label>
+   <Source>#fable109</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable110</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"signore su un cavallo "</Id>
+   <Label>signore su un cavallo </Label>
+   <Source>#fable110</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"figlio"</Id>
+   <Label>figlio</Label>
+   <Source>#fable110</Source>
+   <type>protagonist, rebel</type>
+</character>
+<character>
+   <Id>"nonna"</Id>
+   <Label>nonna</Label>
+   <Source>#fable110</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"la figlia del Re"</Id>
+   <Label>la figlia del Re</Label>
+   <Source>#fable110</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable111</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"minore"</Id>
+   <Label>minore</Label>
+   <Source>#fable111</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"un generale"</Id>
+   <Label>un generale</Label>
+   <Source>#fable111</Source>
+   <type>helper, trickster</type>
+</character>
+<character>
+   <Id>"Re selvatico"</Id>
+   <Label>Re selvatico</Label>
+   <Source>#fable111</Source>
+   <type>helper, sovereign</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable111</Source>
+   <type>helper, lover</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable112</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"mercanti"</Id>
+   <Label>mercanti</Label>
+   <Source>#fable112</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"Mandorlinfiore"</Id>
+   <Label>Mandorlinfiore</Label>
+   <Source>#fable112</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"Belfiore"</Id>
+   <Label>Belfiore</Label>
+   <Source>#fable112</Source>
+   <type>prize, lover</type>
+</character>
+<character>
+   <Id>"tre figli di Re"</Id>
+   <Label>tre figli di Re</Label>
+   <Source>#fable113</Source>
+   <type>dispatcher, sovereign</type>
+</character>
+<character>
+   <Id>"balia"</Id>
+   <Label>balia</Label>
+   <Source>#fable113</Source>
+   <type>villain, trickster</type>
+</character>
+<character>
+   <Id>"tre figlie"</Id>
+   <Label>tre figlie</Label>
+   <Source>#fable113</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"ministro"</Id>
+   <Label>ministro</Label>
+   <Source>#fable113</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"bambino"</Id>
+   <Label>bambino</Label>
+   <Source>#fable113</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"figlio di Re"</Id>
+   <Label>figlio di Re</Label>
+   <Source>#fable113</Source>
+   <type>helper, sovereign</type>
+</character>
+<character>
+   <Id>"Re"</Id>
+   <Label>Re</Label>
+   <Source>#fable114</Source>
+   <type>villain, sovereign</type>
+</character>
+<character>
+   <Id>"vecchietta"</Id>
+   <Label>vecchietta</Label>
+   <Source>#fable114</Source>
+   <type>helper, magician</type>
+</character>
+<character>
+   <Id>"tre figlie"</Id>
+   <Label>tre figlie</Label>
+   <Source>#fable114</Source>
+   <type>prize, innocent</type>
+</character>
+<character>
+   <Id>"gigante"</Id>
+   <Label>gigante</Label>
+   <Source>#fable115</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"Fratino"</Id>
+   <Label>Fratino</Label>
+   <Source>#fable115</Source>
+   <type>protagonist, trickster</type>
+</character>
+<character>
+   <Id>"mamma"</Id>
+   <Label>mamma</Label>
+   <Source>#fable116</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"bambina"</Id>
+   <Label>bambina</Label>
+   <Source>#fable116</Source>
+   <type>protagonist, explorer</type>
+</character>
+<character>
+   <Id>"fiume Giordano"</Id>
+   <Label>fiume Giordano</Label>
+   <Source>#fable116</Source>
+   <type>helper, object</type>
+</character>
+<character>
+   <Id>"Porta Rastrello"</Id>
+   <Label>Porta Rastrello</Label>
+   <Source>#fable116</Source>
+   <type>helper, object</type>
+</character>
+<character>
+   <Id>"Orca"</Id>
+   <Label>Orca</Label>
+   <Source>#fable116</Source>
+   <type>villain, monster</type>
+</character>
+<character>
+   <Id>"mamma"</Id>
+   <Label>mamma</Label>
+   <Source>#fable117</Source>
+   <type>dispatcher, caregiver</type>
+</character>
+<character>
+   <Id>"Franceschiello"</Id>
+   <Label>Franceschiello</Label>
+   <Source>#fable117</Source>
+   <type>protagonist, trickster</type>
+</character>
+<character>
+   <Id>"armati"</Id>
+   <Label>armati</Label>
+   <Source>#fable117</Source>
+   <type>villain, trickster</type>
+</character>
+<character>
+   <Id>"Arciprete"</Id>
+   <Label>Arciprete</Label>
+   <Source>#fable117</Source>
+   <type>helper, caregiver</type>
+</character>
+<character>
+   <Id>"buon vecchio"</Id>
+   <Label>buon vecchio</Label>
+   <Source>#fable118</Source>
+   <type>protagonist, innocent</type>
+</character>
+<character>
+   <Id>"signore dalla lunga barba"</Id>
+   <Label>signore dalla lunga barba</Label>
+   <Source>#fable118</Source>
+   <type>helper, sage</type>
+</character>
+<character>
+   <Id>"Borea"</Id>
+   <Label>Borea</Label>
+   <Source>#fable119</Source>
+   <type>protagonist, creator</type>
+</character>
+<character>
+   <Id>"Favonio"</Id>
+   <Label>Favonio</Label>
+   <Source>#fable119</Source>
+   <type>villain, lover</type>
+</character>
+<character>
+   <Id>"sorcio"</Id>
+   <Label>sorcio</Label>
+   <Source>#fable120</Source>
+   <type>protagonist, trickster</type>
+</character>
+<character>
+   <Id>"sorcio campagnolo"</Id>
+   <Label>sorcio campagnolo</Label>
+   <Source>#fable120</Source>
+   <type>helper, innocent</type>
+</character>
+<character>
+   <Id>"gatto"</Id>
+   <Label>gatto</Label>
+   <Source>#fable120</Source>
+   <type>villain, animal</type>
+</character>
+</data>
