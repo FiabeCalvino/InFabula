@@ -13,13 +13,13 @@
     "title": "InFabula"
   },
   "legend": {
-    "edgeLabel": "Subtype",
+    "edgeLabel": "type",
     "colorLabel": "red",
     "nodeLabel": "Type"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Id",
+    "groupSelectorAttribute": "Label",
     "hoverBehavior": "default"
   },
   "informationPanel": {
