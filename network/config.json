@@ -13,7 +13,7 @@
     "title": "InFabula"
   },
   "legend": {
-    "edgeLabel": "type",
+    "edgeLabel": "Type",
     "colorLabel": "red",
     "nodeLabel": "Type"
   },
