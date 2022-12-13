@@ -11,10 +11,13 @@
 --------------------------------------------------------------*/
 
 #metadata-column {
-	background-color: pink;
+	background-color: #eee7d7;
 	border: 2px solid black;
 	margin-bottom: 5rem;
 	padding-bottom: 5rem;
+  position: sticky;
+  top: 1em;
+  height: fit-content;
 	
 }
 
@@ -28,7 +31,7 @@
   float: center;
   width: auto;
   padding: 10px;
-  border: 2px solid red;
+  /*border: 2px solid red;*/
   text-align:center;
   display : block; 
    /* Should be removed. Only for demonstration */
@@ -150,9 +153,10 @@
   }
   
   
+
 .multiselect, .multiselect2  {
   width: 200px;
-  background-color: red;
+  background-color: transparent;
   margin-bottom: 20px;
 }
 
@@ -163,11 +167,13 @@
 .selectBox select {
   width: 100%;
   font-weight: bold;
+  background-color: #b58756;
 }
 
 .selectBox2 select {
   width: 100%;
   font-weight: bold;
+  background-color: #b58756;
 }
 
 .overSelect, .overSelect {
@@ -180,7 +186,7 @@
 
 #checkboxes, #checkboxes2 {
   display: none;
-  border: 1px #dadada solid;
+  border: 1px #b58756 solid;
 }
 
 #checkboxes label {
@@ -192,7 +198,11 @@
 }
 
 #checkboxes label:hover {
-  background-color: #1e90ff;
+  background-color: #b58756;
+}
+
+#checkboxes2 label:hover {
+  background-color: #b58756;
 }
 
 ul{
