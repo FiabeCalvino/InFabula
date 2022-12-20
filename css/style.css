@@ -222,6 +222,56 @@ li{
 
 
 
+/*TEAM*/
+.column {
+  float: left;
+  width: 50%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+
 
 
 
@@ -367,7 +417,7 @@ h6 {
 
 #main {
   margin-left: 200px;
-  background-image: url('../assets/img/paper.jpg');;
+  /*background-image: url('../assets/img/paper.jpg');*/
 }
 
 @media (max-width: 1199px) {
@@ -468,7 +518,9 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../assets/img/fiabe.jpg") top center;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -487,6 +539,7 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
+  left: 400px;
 }
 
 #hero h1 {
@@ -494,11 +547,11 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: black;
 }
 
 #hero p {
-  color: #fff;
+  color: black;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
