@@ -10,6 +10,11 @@
 # MIO
 --------------------------------------------------------------*/
 
+#documentation {
+  padding: 15px;
+}
+
+
 #metadata-column {
 	background-color: #eee7d7;
 	border: 2px solid black;
@@ -82,56 +87,56 @@
 		}
 		
 		.text-protagonist {
-			background-color: #ddffdd;
+			background-color: red;
 		}
 		.text-dispatcher {
-			background-color: #ffffdd;
+			background-color: green;
 		}
 		.text-villain {
-			background-color: #ffffdd;
+			background-color: pink;
 		}	
 		.text-helper {
-			background-color: #ffffdd;
+			background-color: blue;
 		}
 		.text-prize {
-			background-color: #ffffdd;
+			background-color: yellow;
 		}
 		
 		
 		
 		
 		.text-hero {
-			background-color: #ffffdd;
+			background-color: #BF40BF;
 		}
          .text-hero {
-			background-color: #ffffdd;
+			background-color: #E3963E;
 		}
 		.text-caregiver {
-			background-color: #ffffdd;
+			background-color: #FADA5E;
 		}
 		.text-sovereign {
 			background-color: #ffffdd;
 		}
 		.text-creator {
-			background-color: #ffffdd;
+			background-color: #D8BFD8;
 		}
 		.text-innocent {
-			background-color: #ffffdd;
+			background-color: #AFE1AF;
 		}
 		.text-sage {
-			background-color: #ffffdd;
+			background-color: #6495ED;
 		}
 		.text-rebel {
-			background-color: #ffffdd;
+			background-color: #808080;
 		}
 		.text-jester {
-			background-color: #ffffdd;
+			background-color: #8A9A5B;
 		}
 		.text-lover {
-			background-color: #ffffdd;
+			background-color: #F3CFC6;
 		}
 		.text-magician {
-			background-color: #ffffdd;
+			background-color: #FA8072;
 		}
 
 
@@ -204,6 +209,11 @@
 #checkboxes2 label:hover {
   background-color: #b58756;
 }
+
+#checkboxes label:active {
+  background-color: red;
+} 
+
 
 ul{
     margin-left: -25px;    
