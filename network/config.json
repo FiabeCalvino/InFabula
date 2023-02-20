@@ -8,8 +8,8 @@
     "text": "InFabula"
   },
   "text": {
-    "more": "ho capito ancora meno aiut",
-    "intro": "non ho capito prova",
+    "more": "ho capito ancora meno aiut 1",
+    "intro": "non ho capito prova 1",
     "title": "InFabula"
   },
   "legend": {
@@ -18,12 +18,12 @@
     "nodeLabel": "Type"
   },
   "features": {
-    "search": true,
-    "groupSelectorAttribute": "Label",
+    "search": false,
+    "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
