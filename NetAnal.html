@@ -98,22 +98,65 @@
     <section class="inner-page">
       <div class="container">
         <div class="textsection" id="abstractMedea">
-          <h3>General Graph</h3>
-              <p>Robine blbla</p>
-              
+          
+              <p>This first graph takes in consideration the entirety of Calvino's book.
+              We obtained a general network graph by importing our CSV tables on Gephi, an open-source visualization and exploration software. We opted for an undirected graph, that would sum all the common edges shared by the nodes&rsquo; network, and we discovered what we point out in the network analysis dedicated page.&nbsp;</p>
+              <p>To summarise our results, we can say that the graph containing the entirety of our data shows a specific pattern: an average Italian fable has a prevalence of realistic elements, such as demanding kings, helpful or avid citizens, and damsels in distress respectively in the roles of the dispatcher or the villain, the helper or the villain and the prize. The protagonist is usually an explorer, an individual deeply fascinated with discovering the world and making a name for themselves, or an innocent, a unaware, and curious presence who stumbles into the story and in their main character&rsquo;s role. </p>
+      
+              <h3>General Graph</h3>
+              <iframe
+  width="800"
+  height="600"
+  src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FNora1211%2F8a032980af14711782fe455578fb4b87%2Fraw%2F066597a50f0a5816fe482e866351b58d7105cc10%2Fnetwork-1080731f-2ec.gexf"
+  frameBorder="0"
+  title="Retina"
+  allowFullScreen
+></iframe>
+
+
+
+          <p>Even if this graph technically contains all the elements recurring in an average Italian fable (interestingly so, Italo Calvino proposes the first story of the anthology, &ldquo;Giovannin Senza Paura&rdquo;, as the representative fable for Italian folklore, and according to our model, it fits perfectly this definition) we asked ourselves if there were deeper differences according to the area the fables had been collected from.&nbsp;</p>
+<p>To answer this question, we generated three new CSV tables, one for Northern Italy, one for Central Italy, and one for Southern Italy and the Isles. We did this by implementing the code already mentioned before, and by checking the region each fable comes from while dividing them into new XML documents (north.xml, center.xml, and south.xml); we then imported these new spreadsheets on Gephi.&nbsp;</p>
+<p>We can affirm that there are some substantial differences, that could be explained broadly by the different cultures that influenced Italy in the course of history: if in the north, for example, the villain is either a sovereign or a magician, in the center they&rsquo;re usually a lover and, in the south, a simple citizen; southern fables also differ from the others, because one of their most common protagonist is a trickster (a sly main character, used to deceiving and outsmart those stronger than them).&nbsp;</p>
+<br>
+<h3>North Graph</h3>
+<iframe
+width="800"
+height="600"
+src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FNora1211%2F616c0429d719d143481dc72cda83cb72%2Fraw%2Fcc676369e925300998087bc3b897e382a3b634f5%2Fnetwork-90dad60d-24c.gexf"
+frameBorder="0"
+title="Retina"
+allowFullScreen
+></iframe>
+<br>
+<h3>Central Graph</h3>
+<iframe
+  width="800"
+  height="600"
+  src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FNora1211%2Fc731448253a8b1326dd7e6fa6286edf9%2Fraw%2F605142f3b092232c95cd424cbacddc9a9953ddb7%2Fnetwork-d00b167b-df2.gexf"
+  frameBorder="0"
+  title="Retina"
+  allowFullScreen
+></iframe>
+<br>
+<h3>Southern Graph</h3>
+<iframe
+  width="800"
+  height="600"
+  src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FNora1211%2F441fa67645904e35b0c75240f0ba68a3%2Fraw%2F11b25902ff9656eb6315ad9459645d555bbe31b4%2Fnetwork-31be80db-661.gexf"
+  frameBorder="0"
+  title="Retina"
+  allowFullScreen
+></iframe>
+
+
+
    
                   <!--  <iframe allowfullscreen="allowfullscreen" src="network/index.html" title="Network All" width="100%"
                  height="900px"></iframe>
           </div>-->
 
-          <iframe
-  width="800"
-  height="600"
-  src="https://ouestware.gitlab.io/retina/beta/#/embed/?url=https%3A%2F%2Fgist.githubusercontent.com%2FNora1211%2F1f955d56e7561a7608d99bbed522bc4e%2Fraw%2Fcc676369e925300998087bc3b897e382a3b634f5%2Fnetwork-7deb5644-efe.gexf"
-  frameBorder="0"
-  title="Retina"
-  allowFullScreen
-></iframe>
+         
 
 
 
