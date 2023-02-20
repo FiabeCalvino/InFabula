@@ -169,7 +169,7 @@
     <p>The document starts with the declaration of the namespaces and with the TEI declaration, followed by all the mandatory tags, and then with the content segment of Infabula.xml: the <code>text</code> tag, containing the  <code>body</code> and dividing itself in <code>div</code> , the containing node for all our data.</p>
     <p>Every div has an attribute called <code>XML:id</code> , which we used to differentiate, at least from an id point of view, every fable from one another. The outline of our project, therefore, looks like this:</p>
     <img src="./assets/img/doc1.png" class="imgcenter">
-    <p>Inside every <code>div</code> , the structure is instead the following:
+    <p>Inside every <code>div</code>, the structure is instead the following:
     </p>
     <img src="./assets/img/doc2.png" class="imgcenter">
     <p>With the tag <code>head</code> , we identified the title of the fable, while with span and <code>placeName</code> we added the region or location of the provenance of it, to allow a spatial analysis later on. In the tag <code>p</code> , we find the element <code>persName</code> (referring to any character appearing in the narration) with its respective attributes: <code>type</code> contains the value representing the role we assigned to the character in question, <code>subtype</code> stands for its Jungian archetype or its most important characteristic (as explained before), while <code>source</code> creates a reference to the fable which the character belongs to, expressed in the <code>div</code> with the attribute <code>xml: id</code>.</p>
@@ -185,10 +185,12 @@
     <p>We requested the character&rsquo;s name to use as an <code>id</code>, a necessary element to better identify our character in the csv table.&nbsp;</p>
 <p>What we obtained was something along these lines:&nbsp;</p>
 <li><p><br>It was now time to generate our&nbsp;<code>CSV</code>&nbsp; table on Python. While keeping in mind what was necessary for the network analysis, we created three&nbsp;<code>CSV</code> files (a general one, containing all the&nbsp;<code>XM</code>elements; a nodes one, containing the elements to turn into nodes; an edges one, containing the future edges).&nbsp;</p></li>
-<img src="./assets/img/doc4.png" class="imgcenter">
-<img src="./assets/img/doc5.png" class="imgcenter">
 <br>
-<img src="./assets/img/doc6.png" class="imgcenter">
+
+<img src="./assets/img/doc4.png" class="imgcenter" style="padding: 20px;">
+<img src="./assets/img/doc5.png" class="imgcenter" style="padding: 20px;">
+<img src="./assets/img/doc6.png" class="imgcenter" style="padding: 20px;">
+
 <p>In the Edges.csv we needed to identify the type of each character (Source) and the type of the character(s) they interacted with (Target): we did this by taking into consideration the fables that each character belonged to, and we grouped them accordingly; if this prerequisite was satisfied, they were then connected as a <code>Source</code> and its <code>Target</code>.&nbsp;</p>
 <p>For this passage, we decided to unite the element <code>type</code> and <code>subtype</code> under one single tag (type), since otherwise, the code would have lacked efficiency: we could say that this happened as an afterthought, but it&rsquo;s an easy solution applied for an essential technical segment of our project.&nbsp;</p>
 <h5>The network analysis: mapping folklore </h5>
@@ -207,12 +209,25 @@
       <div id="networkanalysis">
           <h4>2.3 Network Analysis</h4>
           <p>We obtained a general network graph by importing our CSV tables on Gephi, an open-source visualization and exploration software. We opted for an undirected graph, that would sum all the common edges shared by the nodes&rsquo; network, and we discovered what we point out in the network analysis dedicated page.&nbsp;</p>
-          <p>IMMMAGINE</p>
+          <img src="./assets/img/doc11all.jpeg" class="imgcenter">
+          <figcaption>The darker the line connecting the words, the more prevalent a connection between two nodes.  </figcaption>
           <p>To summarise our results, we can say that the graph containing the entirety of our data shows a specific pattern: an average Italian fable has a prevalence of realistic elements, such as demanding kings, helpful or avid citizens, and damsels in distress respectively in the roles of the dispatcher or the villain, the helper or the villain and the prize. The protagonist is usually an explorer, an individual deeply fascinated with discovering the world and making a name for themselves, or an innocent, a unaware, and curious presence who stumbles into the story and in their main character&rsquo;s role. @</p>
           <p>Even if this graph technically contains all the elements recurring in an average Italian fable (interestingly so, Italo Calvino proposes the first story of the anthology, &ldquo;Giovannin Senza Paura&rdquo;, as the representative fable for Italian folklore, and according to our model, it fits perfectly this definition) we asked ourselves if there were deeper differences according to the area the fables had been collected from.&nbsp;</p>
 <p>To answer this question, we generated three new CSV tables, one for Northern Italy, one for Central Italy, and one for Southern Italy and the Isles. We did this by implementing the code already mentioned before, and by checking the region each fable comes from while dividing them into new XML documents (north.xml, center.xml, and south.xml); we then imported these new spreadsheets on Gephi.&nbsp;</p>
 <p>We can affirm that there are some substantial differences, that could be explained broadly by the different cultures that influenced Italy in the course of history: if in the north, for example, the villain is either a sovereign or a magician, in the center they&rsquo;re usually a lover and, in the south, a simple citizen; southern fables also differ from the others, because one of their most common protagonist is a trickster (a sly main character, used to deceiving and outsmart those stronger than them).&nbsp;</p>
+<img src="./assets/img/doc8nord.jpeg" class="imgcenter">
+<figcaption>Northern fables (as a graph of types)</figcaption>
+<img src="./assets/img/doc9centro.jpeg" class="imgcenter">
+<figcaption>Central fables (as a graph of types)</figcaption>
+<img src="./assets/img/doc10sud.jpeg" class="imgcenter">
+<figcaption>Southern fables (as a graph of types)</figcaption>
 
+
+
+
+
+
+<p>To visualize our graph we used the  free, open-source web application <a href="https://ouestware.gitlab.io/retina/beta/#/"> Retina</a>, this tool allows you to embed your graph into a website. Users can filter nodes on their attributes. Retina tries to detect whether attributes represent quantitative, qualitative or textual information. Graph editors can select which fields can be used to filter or not for graph explorers, it also allows mapping node colors on node attributes (in a way inspired by Gephi), so that it can display a proper caption. </p>
           <div id="networkanalysisintro">
                 <h5>2.3.1 Introduction</h5>
               <p>blabla</p>
