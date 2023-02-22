@@ -47,6 +47,22 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <style>
+    /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+  </style>
 </head>
 
 <body>
@@ -211,16 +227,26 @@
           <p>We obtained a general network graph by importing our CSV tables on Gephi, an open-source visualization and exploration software. We opted for an undirected graph, that would sum all the common edges shared by the nodes&rsquo; network, and we discovered what we point out in the network analysis dedicated page.&nbsp;</p>
           <img src="./assets/img/doc11all.jpeg" class="imgcenter">
           <figcaption>The darker the line connecting the words, the more prevalent a connection between two nodes.  </figcaption>
-          <p>To summarise our results, we can say that the graph containing the entirety of our data shows a specific pattern: an average Italian fable has a prevalence of realistic elements, such as demanding kings, helpful or avid citizens, and damsels in distress respectively in the roles of the dispatcher or the villain, the helper or the villain and the prize. The protagonist is usually an explorer, an individual deeply fascinated with discovering the world and making a name for themselves, or an innocent, a unaware, and curious presence who stumbles into the story and in their main character&rsquo;s role. @</p>
+          <p>To summarise our results, we can say that the graph containing the entirety of our data shows a specific pattern: an average Italian fable has a prevalence of realistic elements, such as demanding kings, helpful or avid citizens, and damsels in distress respectively in the roles of the dispatcher or the villain, the helper or the villain and the prize. The protagonist is usually an explorer, an individual deeply fascinated with discovering the world and making a name for themselves, or an innocent, a unaware, and curious presence who stumbles into the story and in their main character&rsquo;s role. </p>
           <p>Even if this graph technically contains all the elements recurring in an average Italian fable (interestingly so, Italo Calvino proposes the first story of the anthology, &ldquo;Giovannin Senza Paura&rdquo;, as the representative fable for Italian folklore, and according to our model, it fits perfectly this definition) we asked ourselves if there were deeper differences according to the area the fables had been collected from.&nbsp;</p>
 <p>To answer this question, we generated three new CSV tables, one for Northern Italy, one for Central Italy, and one for Southern Italy and the Isles. We did this by implementing the code already mentioned before, and by checking the region each fable comes from while dividing them into new XML documents (north.xml, center.xml, and south.xml); we then imported these new spreadsheets on Gephi.&nbsp;</p>
 <p>We can affirm that there are some substantial differences, that could be explained broadly by the different cultures that influenced Italy in the course of history: if in the north, for example, the villain is either a sovereign or a magician, in the center they&rsquo;re usually a lover and, in the south, a simple citizen; southern fables also differ from the others, because one of their most common protagonist is a trickster (a sly main character, used to deceiving and outsmart those stronger than them).&nbsp;</p>
-<img src="./assets/img/doc8nord.jpeg" class="imgcenter">
+
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="./assets/img/doc8nord.jpeg" class="imgcenter"  style="width:100%">
 <figcaption>Northern fables (as a graph of types)</figcaption>
-<img src="./assets/img/doc9centro.jpeg" class="imgcenter">
-<figcaption>Central fables (as a graph of types)</figcaption>
-<img src="./assets/img/doc10sud.jpeg" class="imgcenter">
-<figcaption>Southern fables (as a graph of types)</figcaption>
+  </div>
+  <div class="column">
+    <img src="./assets/img/doc9centro.jpeg" class="imgcenter" style="width:100%">
+    <figcaption>Central fables (as a graph of types)</figcaption>  </div>
+  <div class="column">
+    <img src="./assets/img/doc10sud.jpeg" class="imgcenter" style="width:100%">
+    <figcaption>Southern fables (as a graph of types)</figcaption>  </div>
+</div>
 
 
 
@@ -228,21 +254,7 @@
 
 
 <p>To visualize our graph we used the  free, open-source web application <a href="https://ouestware.gitlab.io/retina/beta/#/"> Retina</a>, this tool allows you to embed your graph into a website. Users can filter nodes on their attributes. Retina tries to detect whether attributes represent quantitative, qualitative or textual information. Graph editors can select which fields can be used to filter or not for graph explorers, it also allows mapping node colors on node attributes (in a way inspired by Gephi), so that it can display a proper caption. </p>
-          <div id="networkanalysisintro">
-                <h5>2.3.1 Introduction</h5>
-              <p>blabla</p>
-              </div>
-            
-            
-      <div id="data">
-                <h5>2.3.2 Organizing Data</h5>
-          <p>blabla</p>
-          
-    </div>
-     <div id="graphs">
-                <h5>2.3.3 apping Folklore</h5>
-    <p>blabka.</p>
-    </div>
+         
     
      <div id="remarks">
      <h3>3. Results and Final Remarks</h3>
@@ -250,13 +262,15 @@
      <p>Most importantly, we managed to showcase what is the structure of an ancient Italian story, and we digitally proved Italo Calvino&rsquo;s critical observations.&nbsp;</p>    </div> 
      <div id="bibliography">
      <h3>4. Bibliography</h3>
-        <ul>
-          <li> <a>https://umanisticadigitale.unibo.it/article/view/9091</a> </li>
-          <li> <a>https://books.openbookpublishers.com/10.11647/obp.0095.pdf</a></li>
-          <li> <a>https://www.digitalstudies.org/article/id/7357/  </a></li>
-          <li> <a>  https://tei-c.org/</a></li>
-          <li> <a> Graphs, Maps, Trees: Abstract Models For A Literary History: Abstract Models for Literary History, Franco Moretti</a></li>
-        </ul>
+     <ul>
+      <li><a href="https://umanisticadigitale.unibo.it/article/view/9091">- Daquino, M., Giovannetti, F., & Tomasi, F. (2019). Linked Data per le edizioni scientifiche digitali. Il workflow di pubblicazione dell’edizione semantica del quaderno di appunti di Paolo Bufalini. Umanistica Digitale, 3(7).</a></li>
+      <li><a href="https://books.openbookpublishers.com/10.11647/obp.0095.pdf">- Matthew James Driscoll, Elena Pierazzo. (2016). Digital Scholarly Editing
+        Theories and Practices</a></li>
+        <li><a href="https://www.digitalstudies.org/article/id/7357/">- El Khatib, R., & Schaeben, M. (2020). Why Map Literature? Geospatial Prototyping for Literary Studies and Digital Humanities. Digital Studies/le Champ Numérique, 10(1)</a></li>
+    <li><a href=" https://tei-c.org/">- Tei Documentation</a></li>
+    <li>- Moretti, F. (2005). Graphs, Maps, Trees: Abstract Models For A Literary History: Abstract Models for Literary History </li>
+  </ul>
+        
     </div> 
     </div>
     
@@ -274,13 +288,7 @@
       <div class="copyright">
         &copy; Copyright <strong><span>InFabula</span></strong>
       </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
+      
     </div>
   </footer><!-- End  Footer -->
 
