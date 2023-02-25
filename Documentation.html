@@ -194,7 +194,7 @@
     <h5>Organizing data: creating the CSV</h5>
     <p>After finishing the first tagging process, we had to retrieve the characters&rsquo; roles and archetypes: this is the first step to obtaining sufficient material for an efficient network analysis. We didn&rsquo;t yet possess any statistical indicator about our data, therefore it was essential to organize all the information in a readable form.&nbsp;</p>
 <p>We chose to create a <code>.csv file</code> and a <code>.json file</code> to store our characters&rsquo; data. If obtaining a JSON file was easy (Oxygen provides a tool to do so with a click), we had to use Python and the Pandas library to generate a <code>CSV</code> table from our XML document.&nbsp;</p>
-<p>Here we realized that our data was not correctly formatted for such a task: the structure shown before didn&rsquo;t allow us to interpret<code>&nbsp;type</code>, <code>subtype</code>or <code>source</code>as if they were elements and, therefore, children nodes of the <code>persName</code> node; Python interpreted them as content inside of the node <code>persName</code>, and the csv resulted either incomplete or completely wrong (for example, incorrect types and subtypes would be assigned to different characters, so that a character with the type &ldquo;protagonist&rdquo; and the subtype &ldquo;explorer&rdquo; resulted as a &ldquo;villain&rdquo; &ldquo;magician&rdquo; in the<code>csv</code>).&nbsp;</p>
+<p>Here we realized that our data was not correctly formatted for such a task: the structure shown before didn&rsquo;t allow us to interpret<code>&nbsp;type</code>, <code>subtype</code> or <code>source</code> as if they were elements and, therefore, children nodes of the <code>persName</code> node; Python interpreted them as content inside of the node <code>persName</code>, and the csv resulted either incomplete or completely wrong (for example, incorrect types and subtypes would be assigned to different characters, so that a character with the type &ldquo;protagonist&rdquo; and the subtype &ldquo;explorer&rdquo; resulted as a &ldquo;villain&rdquo; &ldquo;magician&rdquo; in the <code>csv</code>).&nbsp;</p>
 <p>At this point, we went trough these following steps:&nbsp;</p>
 <ol start="1" type="1">
     <li>We retrieved the <code>persName</code> content and attributes by using XQuery, on Oxygen, and then we asked XQuery to return a specific result, as shown here.&nbsp;</li>
@@ -219,8 +219,8 @@
     
       <div id="#spatialanalysis">
           <h4>2.2 Spatial Analysis</h4>
-          <p>In order to realize the spatial analysis we used the tool Leaflet, it is an open-source JavaScript library for mobile-frienly interactive map.</p>
-<p>After setting up the map centered in order to show the whole of italy , we pinpointed with the designated markers. the cities linked to the fables selected by Calvino. thanks to leaflet technologies we inserted popups in each marker, and by clicking on it the list of all the fables of that certain place appear.</p>
+          <p>In order to realize the spatial analysis we used the tool Leaflet, it is an open-source JavaScript library for mobile-friendly interactive map.</p>
+<p>After setting up the map centered in order to show the whole of italy , we pin-pointed with the designated markers. the cities linked to the fables selected by Calvino. thanks to leaflet technologies we inserted popups in each marker, and by clicking on it the list of all the fables of that certain place appear.</p>
 <p>Thank to this kind of visualization we are able to immediately envision the spatial distribution of Clavino&apos;s Fables in different regions. By looking at the map we get the sense that there is a stronger presence of fables in the area between Emilia Romagna and Toscana and in sicilia.</p>
     </div>
       <div id="networkanalysis">
